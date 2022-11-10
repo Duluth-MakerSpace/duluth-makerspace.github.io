@@ -7,9 +7,9 @@ const {
   content: {
     title,
     description,
-    publishDate,
+    date,
     canonicalURL,
-    featuredImage,
+    image,
     tags,
   },
 } = Astro.props;
@@ -23,9 +23,9 @@ if (tags && tags.length > 0) {
 const seo = {
   title,
   description,
-  publishDate,
+  publishDate: date,
   canonicalURL,
-  image: featuredImage,
+  image,
 };
 ---
 
@@ -42,11 +42,11 @@ const seo = {
     </ul>
     <h1>{title}</h1>
     <p class="post-layout__date">
-      <time><em>{publishDate}</em></time>
+      <time><em>{date}</em></time>
     </p>
     {
-      featuredImage && (
-        <img class="post-layout__img" src={featuredImage} alt={title} />
+      image && (
+        <img class="post-layout__img" src={image} alt={title} />
       )
     }
   </div>
