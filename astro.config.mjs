@@ -20,10 +20,12 @@ export default defineConfig({
                 backend: {
                     name: 'git-gateway',
                     branch: 'main',
+                    repo: 'Duluth-Makerspace/duluth-makerspace.github.io'
                 },
                 site_url: 'https://duluth-makerspace.github.io',
                 publish_mode: 'editorial_workflow',
                 media_folder: 'public/assets/uploads',
+                public_folder: '/assets/uploads',
                 collections: [
                     {
                         name: 'posts',
