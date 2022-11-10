@@ -83,6 +83,8 @@ export default defineConfig({
                                 required: false,
                                 tagname: ''
                             },
+                            { label: 'Description', name: 'description', widget: 'string', tagname: 'h4', required: false },
+                            
                             { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' },
                             { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../../layouts/Post.astro'}
                         ],
