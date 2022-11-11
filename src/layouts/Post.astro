@@ -11,6 +11,7 @@ const {
     canonicalURL,
     image,
     tags,
+    author,
   },
 } = Astro.props;
 
@@ -42,7 +43,7 @@ const seo = {
     </ul>
     <h1>{title}</h1>
     <p class="post-layout__date">
-      <time><em>{date}</em></time>
+      <em><time>{date}</time> by {author}</em>
     </p>
     {
       image && (
