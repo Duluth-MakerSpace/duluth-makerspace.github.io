@@ -3,7 +3,7 @@ title: New Sponsor
 date: Monday, Dec 8th
 author: Joe
 image: /public/assets/uploads/news/post-264.jpg
-description: (Their Slogan: Offshore to the North Shore)
+description: (Their Slogan -- Offshore to the North Shore)
 layout: ../../../layouts/Post.astro
 ---
 

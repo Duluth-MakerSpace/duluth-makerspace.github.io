@@ -3,7 +3,7 @@ title: Chewbacca In The Pottery Studio!
 date: Thursday, Feb 11th
 author: hg
 image: /public/assets/uploads/news/post-044.jpg
-description: (Insert Chewy sound here: >>>>)
+description: (Insert Chewy sound here ...)
 layout: ../../../layouts/Post.astro
 ---
 
