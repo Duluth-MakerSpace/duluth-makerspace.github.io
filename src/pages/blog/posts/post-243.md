@@ -2,7 +2,7 @@
 title: Saturday Making + Sunday Meeting
 date: Sunday, Jan 18th
 author: Joe
-image: /public/assets/uploads/news/post-243.jpg
+image: /assets/uploads/post-243.jpg
 description: (Fancy RGB Addressable Display working - bottom of scrolling logo)
 layout: ../../../layouts/Post.astro
 ---

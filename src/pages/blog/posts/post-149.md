@@ -2,7 +2,7 @@
 title: New 3D Printers
 date: Tuesday, Jan 15th
 author: Miranda
-image: /public/assets/uploads/news/post-149.jpg
+image: /assets/uploads/post-149.jpg
 layout: ../../../layouts/Post.astro
 ---
 

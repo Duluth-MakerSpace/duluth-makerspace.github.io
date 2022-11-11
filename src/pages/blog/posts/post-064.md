@@ -2,7 +2,7 @@
 title: If At First You Don't Succeed...
 date: Wednesday, Oct 14th
 author: HG
-image: /public/assets/uploads/news/post-064.jpg
+image: /assets/uploads/post-064.jpg
 description: (Try, try, again!)
 layout: ../../../layouts/Post.astro
 ---

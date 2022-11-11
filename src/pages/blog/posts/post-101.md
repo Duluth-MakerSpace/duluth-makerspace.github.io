@@ -2,7 +2,7 @@
 title: Nefertiti Revisited
 date: Thursday, Aug 22nd
 author: hg
-image: /public/assets/uploads/news/post-101.jpg
+image: /assets/uploads/post-101.jpg
 description: (Its Done ! )
 layout: ../../../layouts/Post.astro
 ---

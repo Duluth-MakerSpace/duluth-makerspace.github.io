@@ -2,7 +2,7 @@
 title: Laser Cooling System
 date: Monday, Aug 1st
 author: Joe
-image: /public/assets/uploads/news/post-189.jpg
+image: /assets/uploads/post-189.jpg
 description: (Caleb our 12 year old intrepid maker laser cut a custom organizer box.)
 layout: ../../../layouts/Post.astro
 ---

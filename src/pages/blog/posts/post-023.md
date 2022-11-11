@@ -2,7 +2,7 @@
 title: Pottery In Wheel Time ;)
 date: Monday, May 31st
 author: HG
-image: /public/assets/uploads/news/post-023.jpg
+image: /assets/uploads/post-023.jpg
 layout: ../../../layouts/Post.astro
 ---
 

@@ -2,7 +2,7 @@
 title: Busy Class Day!
 date: Sunday, Dec 7th
 author: Joe
-image: /public/assets/uploads/news/post-265.jpg
+image: /assets/uploads/post-265.jpg
 description: (Alyssa's happy little village)
 layout: ../../../layouts/Post.astro
 ---

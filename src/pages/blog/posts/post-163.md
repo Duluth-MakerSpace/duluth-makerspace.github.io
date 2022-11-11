@@ -2,7 +2,7 @@
 title: Gingerbread Dodecahedron
 date: Monday, Dec 11th
 author: Alyssa
-image: /public/assets/uploads/news/post-163.jpg
+image: /assets/uploads/post-163.jpg
 description: (Paul & Lynelle with their finished product)
 layout: ../../../layouts/Post.astro
 ---

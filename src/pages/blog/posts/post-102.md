@@ -2,7 +2,7 @@
 title: Keep On Trucking !
 date: Wednesday, Aug 21st
 author: Hg
-image: /public/assets/uploads/news/post-102.jpg
+image: /assets/uploads/post-102.jpg
 description: (Another awesome sculpture ! )
 layout: ../../../layouts/Post.astro
 ---

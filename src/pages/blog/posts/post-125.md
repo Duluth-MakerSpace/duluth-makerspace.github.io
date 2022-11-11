@@ -2,7 +2,7 @@
 title: Alien Miniature
 date: Saturday, Mar 30th
 author: Hg
-image: /public/assets/uploads/news/post-125.jpg
+image: /assets/uploads/post-125.jpg
 description: (They came from space ! Not really, just a 3D printer . )
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Royal Pines
 date: Friday, May 10th
 author: Hg
-image: /public/assets/uploads/news/post-116.jpg
+image: /assets/uploads/post-116.jpg
 description: (Northern Finish )
 layout: ../../../layouts/Post.astro
 ---

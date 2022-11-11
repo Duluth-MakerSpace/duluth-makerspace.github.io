@@ -2,7 +2,7 @@
 title: Give To The Max
 date: Monday, Nov 2nd
 author: hg
-image: /public/assets/uploads/news/post-060.jpg
+image: /assets/uploads/post-060.jpg
 description: (A great chance to support local community!)
 layout: ../../../layouts/Post.astro
 ---

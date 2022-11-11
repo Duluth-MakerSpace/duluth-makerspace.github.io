@@ -2,7 +2,7 @@
 title: Wool Daddy
 date: Wednesday, May 22nd
 author: Hg
-image: /public/assets/uploads/news/post-113.jpg
+image: /assets/uploads/post-113.jpg
 layout: ../../../layouts/Post.astro
 ---
 

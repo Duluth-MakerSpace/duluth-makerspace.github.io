@@ -2,7 +2,7 @@
 title: Climber Creativity
 date: Friday, Jan 31st
 author: HG
-image: /public/assets/uploads/news/post-082.jpg
+image: /assets/uploads/post-082.jpg
 description: (So Sweet !)
 layout: ../../../layouts/Post.astro
 ---

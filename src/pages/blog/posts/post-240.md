@@ -2,7 +2,7 @@
 title: Dr Who Night
 date: Thursday, Jan 29th
 author: Joe
-image: /public/assets/uploads/news/post-240.jpg
+image: /assets/uploads/post-240.jpg
 description: (Cybermen created)
 layout: ../../../layouts/Post.astro
 ---

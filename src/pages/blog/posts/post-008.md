@@ -2,7 +2,7 @@
 title: Vending Machines
 date: Tuesday, Sep 14th
 author: HG
-image: /public/assets/uploads/news/post-008.jpg
+image: /assets/uploads/post-008.jpg
 description: (SNACKS!)
 layout: ../../../layouts/Post.astro
 ---

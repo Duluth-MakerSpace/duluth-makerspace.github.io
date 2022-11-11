@@ -2,7 +2,7 @@
 title: Woodshop Open!
 date: Tuesday, Feb 9th
 author: Joe
-image: /public/assets/uploads/news/post-195.jpg
+image: /assets/uploads/post-195.jpg
 description: (Woodshop Open!)
 layout: ../../../layouts/Post.astro
 ---

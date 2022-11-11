@@ -2,7 +2,7 @@
 title: Gorgeous Chair
 date: Thursday, Dec 17th
 author: hg
-image: /public/assets/uploads/news/post-051.jpg
+image: /assets/uploads/post-051.jpg
 description: (Leather and Wood, a wonderful combination )
 layout: ../../../layouts/Post.astro
 ---

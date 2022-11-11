@@ -2,7 +2,7 @@
 title: Creativity In The Pottery Studio
 date: Monday, May 31st
 author: HG
-image: /public/assets/uploads/news/post-024.jpg
+image: /assets/uploads/post-024.jpg
 description: (Mugs!)
 layout: ../../../layouts/Post.astro
 ---

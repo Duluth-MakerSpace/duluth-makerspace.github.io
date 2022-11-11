@@ -2,7 +2,7 @@
 title: Tails In Motion
 date: Wednesday, May 22nd
 author: Hg
-image: /public/assets/uploads/news/post-114.jpg
+image: /assets/uploads/post-114.jpg
 description: (Randy at it again ! )
 layout: ../../../layouts/Post.astro
 ---

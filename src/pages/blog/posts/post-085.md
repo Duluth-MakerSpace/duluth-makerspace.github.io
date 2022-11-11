@@ -2,7 +2,7 @@
 title: Industrial Sewing
 date: Thursday, Jan 2nd
 author: hg
-image: /public/assets/uploads/news/post-085.jpg
+image: /assets/uploads/post-085.jpg
 description: (Broken? Fix it. )
 layout: ../../../layouts/Post.astro
 ---

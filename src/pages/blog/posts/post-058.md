@@ -2,7 +2,7 @@
 title: A Yurt From TurtleHare Farm
 date: Tuesday, Nov 10th
 author: hg
-image: /public/assets/uploads/news/post-058.jpg
+image: /assets/uploads/post-058.jpg
 description: (Looking for a get away?)
 layout: ../../../layouts/Post.astro
 ---

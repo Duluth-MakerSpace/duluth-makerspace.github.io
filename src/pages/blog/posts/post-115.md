@@ -2,7 +2,7 @@
 title: Reuse,Reduce .... Retool ?
 date: Friday, May 10th
 author: Hg
-image: /public/assets/uploads/news/post-115.jpg
+image: /assets/uploads/post-115.jpg
 description: (Finding a new purpose for scrap wood )
 layout: ../../../layouts/Post.astro
 ---

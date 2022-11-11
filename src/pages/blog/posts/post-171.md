@@ -2,7 +2,7 @@
 title: Fun Day Of Classes
 date: Sunday, Feb 19th
 author: Joe
-image: /public/assets/uploads/news/post-171.jpg
+image: /assets/uploads/post-171.jpg
 description: (Steven's step stool class turned out well!)
 layout: ../../../layouts/Post.astro
 ---

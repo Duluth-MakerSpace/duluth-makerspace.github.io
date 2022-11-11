@@ -2,7 +2,7 @@
 title: Pong Group Project
 date: Wednesday, Dec 17th
 author: Joe
-image: /public/assets/uploads/news/post-257.jpg
+image: /assets/uploads/post-257.jpg
 description: (Alyssa and Miranda's Wire Wrap Jewelry class.)
 layout: ../../../layouts/Post.astro
 ---

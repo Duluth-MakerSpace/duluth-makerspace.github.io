@@ -2,7 +2,7 @@
 title: Member Drive A Success!
 date: Sunday, Feb 26th
 author: Joe
-image: /public/assets/uploads/news/post-169.jpg
+image: /assets/uploads/post-169.jpg
 layout: ../../../layouts/Post.astro
 ---
 

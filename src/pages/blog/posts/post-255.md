@@ -2,7 +2,7 @@
 title: Great Last Minute Gift Idea!
 date: Saturday, Dec 20th
 author: Joe
-image: /public/assets/uploads/news/post-255.jpg
+image: /assets/uploads/post-255.jpg
 description: (DMS gift certificates available!)
 layout: ../../../layouts/Post.astro
 ---

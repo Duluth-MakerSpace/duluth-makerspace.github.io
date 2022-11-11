@@ -2,7 +2,7 @@
 title: Sharpening Ol’ Skills
 date: Monday, Jun 3rd
 author: Hg
-image: /public/assets/uploads/news/post-110.jpg
+image: /assets/uploads/post-110.jpg
 description: (Turns out you can always teach a old dog new tricks! )
 layout: ../../../layouts/Post.astro
 ---

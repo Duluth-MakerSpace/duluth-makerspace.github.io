@@ -2,7 +2,7 @@
 title: Custom Car Clamps
 date: Monday, Nov 23rd
 author: HG
-image: /public/assets/uploads/news/post-056.jpg
+image: /assets/uploads/post-056.jpg
 description: (Say it 3 times faster)
 layout: ../../../layouts/Post.astro
 ---

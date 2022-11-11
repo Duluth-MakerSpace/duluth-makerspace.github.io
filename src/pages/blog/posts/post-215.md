@@ -2,7 +2,7 @@
 title: Chainmail Class
 date: Monday, Apr 27th
 author: Joe
-image: /public/assets/uploads/news/post-215.jpg
+image: /assets/uploads/post-215.jpg
 description: (Young chainmail class student's production. plus a 3d print.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Leather Boxes
 date: Tuesday, Sep 14th
 author: Hg
-image: /public/assets/uploads/news/post-006.jpg
+image: /assets/uploads/post-006.jpg
 description: (Check out the Class!)
 layout: ../../../layouts/Post.astro
 ---

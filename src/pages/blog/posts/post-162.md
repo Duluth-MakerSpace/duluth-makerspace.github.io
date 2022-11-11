@@ -2,7 +2,7 @@
 title: Craft Room Upgrades
 date: Thursday, Feb 8th
 author: Joe
-image: /public/assets/uploads/news/post-162.jpg
+image: /assets/uploads/post-162.jpg
 description: (Awesome Creative jewelry station setup!)
 layout: ../../../layouts/Post.astro
 ---

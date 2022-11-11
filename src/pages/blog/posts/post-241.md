@@ -2,7 +2,7 @@
 title: Huge Auction Winnings
 date: Saturday, Jan 24th
 author: Joe
-image: /public/assets/uploads/news/post-241.jpg
+image: /assets/uploads/post-241.jpg
 description: (one of many loads of winnings.)
 layout: ../../../layouts/Post.astro
 ---

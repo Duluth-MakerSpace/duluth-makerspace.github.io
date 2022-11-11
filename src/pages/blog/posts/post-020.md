@@ -2,7 +2,7 @@
 title: Motorcycle Upgrade
 date: Thursday, Jun 10th
 author: HG
-image: /public/assets/uploads/news/post-020.jpg
+image: /assets/uploads/post-020.jpg
 description: (Batbike!)
 layout: ../../../layouts/Post.astro
 ---

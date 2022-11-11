@@ -2,7 +2,7 @@
 title: Shooting Pins
 date: Wednesday, Oct 21st
 author: HG
-image: /public/assets/uploads/news/post-062.jpg
+image: /assets/uploads/post-062.jpg
 description: (Gobblin for a Turkey)
 layout: ../../../layouts/Post.astro
 ---

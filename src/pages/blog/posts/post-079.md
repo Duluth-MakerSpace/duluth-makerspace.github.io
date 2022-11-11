@@ -2,7 +2,7 @@
 title: CNC Art
 date: Friday, Feb 7th
 author: Hg
-image: /public/assets/uploads/news/post-079.jpg
+image: /assets/uploads/post-079.jpg
 description: (Check it out )
 layout: ../../../layouts/Post.astro
 ---

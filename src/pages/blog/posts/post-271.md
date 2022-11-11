@@ -2,7 +2,7 @@
 title: Busy Day
 date: Monday, Dec 1st
 author: Joe
-image: /public/assets/uploads/news/post-271.jpg
+image: /assets/uploads/post-271.jpg
 description: (More heat in progress!)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Front Of Building Mural In Progress
 date: Friday, Apr 17th
 author: Joe
-image: /public/assets/uploads/news/post-218.jpg
+image: /assets/uploads/post-218.jpg
 description: (In progress!)
 layout: ../../../layouts/Post.astro
 ---

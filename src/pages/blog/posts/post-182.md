@@ -2,7 +2,7 @@
 title: Saturn Systems Sponsorship!
 date: Tuesday, Oct 25th
 author: Joe
-image: /public/assets/uploads/news/post-182.jpg
+image: /assets/uploads/post-182.jpg
 description: (Saturn Systems a local software development company.)
 layout: ../../../layouts/Post.astro
 ---

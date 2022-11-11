@@ -2,7 +2,7 @@
 title: X-carve On Copper
 date: Sunday, Jul 18th
 author: HG
-image: /public/assets/uploads/news/post-016.jpg
+image: /assets/uploads/post-016.jpg
 description: (Way faster than by Hand )
 layout: ../../../layouts/Post.astro
 ---

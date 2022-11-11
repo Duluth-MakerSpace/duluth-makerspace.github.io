@@ -2,7 +2,7 @@
 title: Techshop Is Hoppin
 date: Friday, Aug 6th
 author: hg
-image: /public/assets/uploads/news/post-014.jpg
+image: /assets/uploads/post-014.jpg
 description: (DIY Batteries )
 layout: ../../../layouts/Post.astro
 ---

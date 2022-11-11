@@ -2,7 +2,7 @@
 title: Woodshop Opening Open House A Success!
 date: Monday, Feb 8th
 author: Joe
-image: /public/assets/uploads/news/post-196.jpg
+image: /assets/uploads/post-196.jpg
 description: (Thanks for all the prep work members!)
 layout: ../../../layouts/Post.astro
 ---

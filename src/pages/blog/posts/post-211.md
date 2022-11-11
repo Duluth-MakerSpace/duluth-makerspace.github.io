@@ -2,7 +2,7 @@
 title: Group Project Progress
 date: Sunday, May 10th
 author: Joe
-image: /public/assets/uploads/news/post-211.jpg
+image: /assets/uploads/post-211.jpg
 description: (infinity mirror testing success!)
 layout: ../../../layouts/Post.astro
 ---

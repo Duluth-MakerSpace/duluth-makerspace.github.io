@@ -2,7 +2,7 @@
 title: Lego Mindstorm Kits
 date: Friday, Feb 10th
 author: Joe
-image: /public/assets/uploads/news/post-172.jpg
+image: /assets/uploads/post-172.jpg
 description: (Taking inventory and testing)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Sunday Classes And Pong
 date: Sunday, Dec 14th
 author: Joe
-image: /public/assets/uploads/news/post-259.jpg
+image: /assets/uploads/post-259.jpg
 description: (Chris's dueling reindeer pong pedestals)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Official Non-Profit Status
 date: Thursday, Aug 2nd
 author: Alyssa
-image: /public/assets/uploads/news/post-159.jpg
+image: /assets/uploads/post-159.jpg
 layout: ../../../layouts/Post.astro
 ---
 

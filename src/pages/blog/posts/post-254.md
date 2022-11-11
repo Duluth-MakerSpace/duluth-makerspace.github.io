@@ -2,7 +2,7 @@
 title: Stained Glass +
 date: Sunday, Dec 21st
 author: Joe
-image: /public/assets/uploads/news/post-254.jpg
+image: /assets/uploads/post-254.jpg
 description: (Intro Stained Glass Projects!)
 layout: ../../../layouts/Post.astro
 ---

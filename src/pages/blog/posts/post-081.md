@@ -2,7 +2,7 @@
 title: CNC Progress
 date: Friday, Jan 31st
 author: hg
-image: /public/assets/uploads/news/post-081.jpg
+image: /assets/uploads/post-081.jpg
 description: (Final Parts Order In! )
 layout: ../../../layouts/Post.astro
 ---

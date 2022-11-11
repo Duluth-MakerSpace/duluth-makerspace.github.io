@@ -2,7 +2,7 @@
 title: Nice Planer !
 date: Friday, Feb 21st
 author: Hg
-image: /public/assets/uploads/news/post-076.jpg
+image: /assets/uploads/post-076.jpg
 layout: ../../../layouts/Post.astro
 ---
 

@@ -2,7 +2,7 @@
 title: Lathe Operating
 date: Thursday, Mar 5th
 author: Joe
-image: /public/assets/uploads/news/post-229.jpg
+image: /assets/uploads/post-229.jpg
 description: (Mike made some fancy brass cribbage pegs)
 layout: ../../../layouts/Post.astro
 ---

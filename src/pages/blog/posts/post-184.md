@@ -2,7 +2,7 @@
 title: Lincoln Park Open House Event
 date: Tuesday, Oct 11th
 author: Joe
-image: /public/assets/uploads/news/post-184.jpg
+image: /assets/uploads/post-184.jpg
 description: (Poster @ the shop)
 layout: ../../../layouts/Post.astro
 ---

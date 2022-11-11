@@ -2,7 +2,7 @@
 title: DMS & Coronavirus
 date: Sunday, Mar 15th
 author: Alyssa
-image: /public/assets/uploads/news/post-075.jpg
+image: /assets/uploads/post-075.jpg
 layout: ../../../layouts/Post.astro
 ---
 

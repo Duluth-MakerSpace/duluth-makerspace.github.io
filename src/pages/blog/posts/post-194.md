@@ -2,7 +2,7 @@
 title: Giant CNC Streamlined
 date: Sunday, Apr 17th
 author: Joe
-image: /public/assets/uploads/news/post-194.jpg
+image: /assets/uploads/post-194.jpg
 description: (CNC Machine setup well now.)
 layout: ../../../layouts/Post.astro
 ---

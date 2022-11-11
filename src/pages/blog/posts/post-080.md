@@ -2,7 +2,7 @@
 title: Reduce, Reuse, Recycle
 date: Friday, Feb 7th
 author: Hg
-image: /public/assets/uploads/news/post-080.jpg
+image: /assets/uploads/post-080.jpg
 description: (Car topper saved from the dump )
 layout: ../../../layouts/Post.astro
 ---

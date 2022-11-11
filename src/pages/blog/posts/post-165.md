@@ -2,7 +2,7 @@
 title: Beautiful Cutting Board
 date: Tuesday, May 16th
 author: Joe
-image: /public/assets/uploads/news/post-165.jpg
+image: /assets/uploads/post-165.jpg
 description: (Greg's board has a bit of attitude.)
 layout: ../../../layouts/Post.astro
 ---

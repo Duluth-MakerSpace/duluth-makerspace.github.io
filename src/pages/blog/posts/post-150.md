@@ -2,7 +2,7 @@
 title: Woodshop Lights
 date: Wednesday, Dec 19th
 author: Miranda
-image: /public/assets/uploads/news/post-150.jpg
+image: /assets/uploads/post-150.jpg
 description: (A nice, bright woodshop. )
 layout: ../../../layouts/Post.astro
 ---

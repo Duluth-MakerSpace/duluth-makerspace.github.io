@@ -2,7 +2,7 @@
 title: Nice Laser Project
 date: Monday, Jun 20th
 author: Joe
-image: /public/assets/uploads/news/post-191.jpg
+image: /assets/uploads/post-191.jpg
 description: (Multiple layers of plywood bathymetry stained to help indicate depth.)
 layout: ../../../layouts/Post.astro
 ---

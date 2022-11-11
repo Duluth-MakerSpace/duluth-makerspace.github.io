@@ -2,7 +2,7 @@
 title: Duluth Puzzle Derby
 date: Friday, Mar 27th
 author: Joe
-image: /public/assets/uploads/news/post-226.jpg
+image: /assets/uploads/post-226.jpg
 description: (Acrylic two tone laser cut logo keychains)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Howard’s Game
 date: Wednesday, Feb 27th
 author: HG
-image: /public/assets/uploads/news/post-130.jpg
+image: /assets/uploads/post-130.jpg
 description: (When Life gives you Lemons, you make Lemonade. )
 layout: ../../../layouts/Post.astro
 ---

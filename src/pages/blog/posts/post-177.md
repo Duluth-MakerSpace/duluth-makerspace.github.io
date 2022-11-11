@@ -2,7 +2,7 @@
 title: End Of Year DMS Potluck!
 date: Wednesday, Jan 11th
 author: Joe
-image: /public/assets/uploads/news/post-177.jpg
+image: /assets/uploads/post-177.jpg
 description: (What a great group of folks!)
 layout: ../../../layouts/Post.astro
 ---

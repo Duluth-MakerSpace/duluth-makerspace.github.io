@@ -2,7 +2,7 @@
 title: Monday Night Pottery
 date: Wednesday, Oct 14th
 author: HG
-image: /public/assets/uploads/news/post-063.jpg
+image: /assets/uploads/post-063.jpg
 description: (Hot out of the kiln.)
 layout: ../../../layouts/Post.astro
 ---

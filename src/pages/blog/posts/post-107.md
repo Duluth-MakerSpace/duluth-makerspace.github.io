@@ -2,7 +2,7 @@
 title: Practice Makes Perfect
 date: Wednesday, Jul 10th
 author: HG
-image: /public/assets/uploads/news/post-107.jpg
+image: /assets/uploads/post-107.jpg
 description: (Everything takes time )
 layout: ../../../layouts/Post.astro
 ---

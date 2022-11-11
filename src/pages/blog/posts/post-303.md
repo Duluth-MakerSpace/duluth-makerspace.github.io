@@ -2,7 +2,7 @@
 title: Roof Prep
 date: Thursday, Oct 23rd
 author: Joe
-image: /public/assets/uploads/news/post-303.jpg
+image: /assets/uploads/post-303.jpg
 layout: ../../../layouts/Post.astro
 ---
 

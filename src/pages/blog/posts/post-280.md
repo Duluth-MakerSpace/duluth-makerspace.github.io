@@ -2,7 +2,7 @@
 title: Rubber Stamp Class
 date: Thursday, Nov 20th
 author: Joe
-image: /public/assets/uploads/news/post-280.jpg
+image: /assets/uploads/post-280.jpg
 description: (spent some time on open sign.)
 layout: ../../../layouts/Post.astro
 ---

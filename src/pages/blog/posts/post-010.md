@@ -2,7 +2,7 @@
 title: Agate Festival Success
 date: Friday, Aug 27th
 author: HG
-image: /public/assets/uploads/news/post-010.jpg
+image: /assets/uploads/post-010.jpg
 description: (Woot )
 layout: ../../../layouts/Post.astro
 ---

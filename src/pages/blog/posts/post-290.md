@@ -2,7 +2,7 @@
 title: Make Night
 date: Wednesday, Nov 5th
 author: Joe
-image: /public/assets/uploads/news/post-290.jpg
+image: /assets/uploads/post-290.jpg
 description: (Karl and Paul Laser Cutting Minnesota into Leaf)
 layout: ../../../layouts/Post.astro
 ---

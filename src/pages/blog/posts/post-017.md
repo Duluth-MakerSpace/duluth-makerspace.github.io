@@ -2,7 +2,7 @@
 title: ROCKS!
 date: Wednesday, Jul 14th
 author: HG
-image: /public/assets/uploads/news/post-017.jpg
+image: /assets/uploads/post-017.jpg
 description: (Look at these Gitchee Gummee Beauties)
 layout: ../../../layouts/Post.astro
 ---

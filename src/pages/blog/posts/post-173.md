@@ -2,7 +2,7 @@
 title: Metal Cutting Laser?
 date: Sunday, Feb 5th
 author: Joe
-image: /public/assets/uploads/news/post-173.jpg
+image: /assets/uploads/post-173.jpg
 description: (.1mm Stainless Steel,  The circle is about 2cm across.)
 layout: ../../../layouts/Post.astro
 ---

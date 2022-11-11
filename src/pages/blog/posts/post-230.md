@@ -2,7 +2,7 @@
 title: Minneapolis MakerSpace Tour
 date: Monday, Mar 2nd
 author: Joe
-image: /public/assets/uploads/news/post-230.jpg
+image: /assets/uploads/post-230.jpg
 description: (A smart way of laying out a chop saw @ American Workshop.)
 layout: ../../../layouts/Post.astro
 ---

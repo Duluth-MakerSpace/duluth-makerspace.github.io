@@ -2,7 +2,7 @@
 title: Edge Lit Acrylics! In Time For Valentine's Day!
 date: Saturday, Feb 7th
 author: Joe
-image: /public/assets/uploads/news/post-236.jpg
+image: /assets/uploads/post-236.jpg
 description: (Easy Valentines project with great results!)
 layout: ../../../layouts/Post.astro
 ---

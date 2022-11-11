@@ -2,7 +2,7 @@
 title: New Tools!
 date: Friday, Apr 16th
 author: hg
-image: /public/assets/uploads/news/post-034.jpg
+image: /assets/uploads/post-034.jpg
 description: (New Tools for the Shops )
 layout: ../../../layouts/Post.astro
 ---

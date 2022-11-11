@@ -2,7 +2,7 @@
 title: Duluth MakerSpace Rocks
 date: Wednesday, Apr 15th
 author: Joe
-image: /public/assets/uploads/news/post-219.jpg
+image: /assets/uploads/post-219.jpg
 description: (Laser + Lake Superior Rocks = Fun)
 layout: ../../../layouts/Post.astro
 ---

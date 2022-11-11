@@ -2,7 +2,7 @@
 title: Max Pack
 date: Thursday, Dec 17th
 author: HG
-image: /public/assets/uploads/news/post-052.jpg
+image: /assets/uploads/post-052.jpg
 description: (Finishing Touches!)
 layout: ../../../layouts/Post.astro
 ---

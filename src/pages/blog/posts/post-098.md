@@ -2,7 +2,7 @@
 title: Randys Table
 date: Monday, Sep 9th
 author: hg
-image: /public/assets/uploads/news/post-098.jpg
+image: /assets/uploads/post-098.jpg
 description: (Beginnings )
 layout: ../../../layouts/Post.astro
 ---

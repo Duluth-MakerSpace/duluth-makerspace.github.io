@@ -2,7 +2,7 @@
 title: Groovy Superior
 date: Wednesday, Feb 17th
 author: hg
-image: /public/assets/uploads/news/post-043.jpg
+image: /assets/uploads/post-043.jpg
 description: (Woodshop Prodigy )
 layout: ../../../layouts/Post.astro
 ---

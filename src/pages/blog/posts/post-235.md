@@ -2,7 +2,7 @@
 title: Laser Cutter Working Well
 date: Tuesday, Feb 10th
 author: Joe
-image: /public/assets/uploads/news/post-235.jpg
+image: /assets/uploads/post-235.jpg
 description: (Custom acrylic gears and full page paper cut out.)
 layout: ../../../layouts/Post.astro
 ---

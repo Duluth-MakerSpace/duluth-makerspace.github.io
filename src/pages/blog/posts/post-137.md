@@ -2,7 +2,7 @@
 title: Dungeons And Dragons Meets 3D Printer
 date: Saturday, Feb 9th
 author: Hg
-image: /public/assets/uploads/news/post-137.jpg
+image: /assets/uploads/post-137.jpg
 description: (Gotta be accurate )
 layout: ../../../layouts/Post.astro
 ---

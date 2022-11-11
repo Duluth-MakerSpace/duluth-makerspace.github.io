@@ -2,7 +2,7 @@
 title: Ian's Woodworking
 date: Tuesday, Sep 3rd
 author: hg
-image: /public/assets/uploads/news/post-100.jpg
+image: /assets/uploads/post-100.jpg
 description: (More fine Craftsmanship out of the Woodshop !)
 layout: ../../../layouts/Post.astro
 ---

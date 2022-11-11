@@ -2,7 +2,7 @@
 title: Sign Finally Hung
 date: Saturday, Nov 29th
 author: Joe
-image: /public/assets/uploads/news/post-273.jpg
+image: /assets/uploads/post-273.jpg
 description: (Sign Finally Up)
 layout: ../../../layouts/Post.astro
 ---

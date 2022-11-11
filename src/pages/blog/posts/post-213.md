@@ -2,7 +2,7 @@
 title: Center (WoodShop) Roof Professionally Patched!
 date: Thursday, Apr 30th
 author: Joe
-image: /public/assets/uploads/news/post-213.jpg
+image: /assets/uploads/post-213.jpg
 description: (Duluth Architectural Metals did a good job today.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Tuesday's Progress
 date: Tuesday, Dec 9th
 author: Joe
-image: /public/assets/uploads/news/post-263.jpg
+image: /assets/uploads/post-263.jpg
 description: (Lego folding table purty!)
 layout: ../../../layouts/Post.astro
 ---

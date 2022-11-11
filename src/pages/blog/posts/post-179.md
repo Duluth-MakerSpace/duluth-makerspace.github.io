@@ -2,7 +2,7 @@
 title: Great Holiday Gift Option
 date: Monday, Nov 28th
 author: Joe
-image: /public/assets/uploads/news/post-179.jpg
+image: /assets/uploads/post-179.jpg
 description: (Laser cut cedar gift certificates.)
 layout: ../../../layouts/Post.astro
 ---

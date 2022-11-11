@@ -2,7 +2,7 @@
 title: Successful Opening
 date: Sunday, Nov 16th
 author: Joe
-image: /public/assets/uploads/news/post-283.jpg
+image: /assets/uploads/post-283.jpg
 description: (A successful event!)
 layout: ../../../layouts/Post.astro
 ---

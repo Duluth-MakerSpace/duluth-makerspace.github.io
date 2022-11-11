@@ -2,7 +2,7 @@
 title: MakerSpace BBQ
 date: Thursday, Jul 12th
 author: Miranda
-image: /public/assets/uploads/news/post-160.jpg
+image: /assets/uploads/post-160.jpg
 description: (Great attendance! )
 layout: ../../../layouts/Post.astro
 ---

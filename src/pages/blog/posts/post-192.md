@@ -2,7 +2,7 @@
 title: Woodshop Yurts!
 date: Saturday, May 28th
 author: Joe
-image: /public/assets/uploads/news/post-192.jpg
+image: /assets/uploads/post-192.jpg
 description: (Nate's central skylight yurt hub.)
 layout: ../../../layouts/Post.astro
 ---

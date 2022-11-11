@@ -2,7 +2,7 @@
 title: Make Night Success!
 date: Wednesday, Oct 22nd
 author: Joe
-image: /public/assets/uploads/news/post-304.jpg
+image: /assets/uploads/post-304.jpg
 description: (Busy Place!)
 layout: ../../../layouts/Post.astro
 ---

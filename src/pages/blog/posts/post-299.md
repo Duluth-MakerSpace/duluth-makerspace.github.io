@@ -2,7 +2,7 @@
 title: Misc Prep
 date: Tuesday, Oct 28th
 author: Joe
-image: /public/assets/uploads/news/post-299.jpg
+image: /assets/uploads/post-299.jpg
 description: (arduino nano cheaper and smaller)
 layout: ../../../layouts/Post.astro
 ---

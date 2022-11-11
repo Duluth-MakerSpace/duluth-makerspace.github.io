@@ -2,7 +2,7 @@
 title: Wiring Project
 date: Wednesday, Dec 2nd
 author: hg
-image: /public/assets/uploads/news/post-054.jpg
+image: /assets/uploads/post-054.jpg
 description: (Makers gonna Make)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Robo Room Painted
 date: Sunday, Jan 11th
 author: Joe
-image: /public/assets/uploads/news/post-247.jpg
+image: /assets/uploads/post-247.jpg
 description: (We can etch glass!  A surprising amount of meltage!)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: It's Ski Season!
 date: Monday, Jan 6th
 author: hg
-image: /public/assets/uploads/news/post-084.jpg
+image: /assets/uploads/post-084.jpg
 description: (Gotta Get Those Skis Waxed )
 layout: ../../../layouts/Post.astro
 ---

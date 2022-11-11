@@ -2,7 +2,7 @@
 title: New Garden
 date: Friday, May 7th
 author: HG
-image: /public/assets/uploads/news/post-026.jpg
+image: /assets/uploads/post-026.jpg
 description: (DMS got a Green Thumb)
 layout: ../../../layouts/Post.astro
 ---

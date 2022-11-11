@@ -2,7 +2,7 @@
 title: Troy's Musical Electronics Class
 date: Thursday, Feb 5th
 author: Joe
-image: /public/assets/uploads/news/post-237.jpg
+image: /assets/uploads/post-237.jpg
 description: (attentive students)
 layout: ../../../layouts/Post.astro
 ---

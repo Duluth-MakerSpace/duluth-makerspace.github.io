@@ -2,7 +2,7 @@
 title: Hand Woodworking Class Tonight
 date: Tuesday, Dec 2nd
 author: Joe
-image: /public/assets/uploads/news/post-270.jpg
+image: /assets/uploads/post-270.jpg
 description: (Josh all ready to go.)
 layout: ../../../layouts/Post.astro
 ---

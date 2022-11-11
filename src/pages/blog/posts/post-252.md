@@ -2,7 +2,7 @@
 title: Lots Of New Equipment
 date: Tuesday, Dec 30th
 author: Joe
-image: /public/assets/uploads/news/post-252.jpg
+image: /assets/uploads/post-252.jpg
 description: (Boxes and boxes of new equipment coming in)
 layout: ../../../layouts/Post.astro
 ---

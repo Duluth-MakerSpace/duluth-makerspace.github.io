@@ -2,7 +2,7 @@
 title: Nefertiti Resurrected - From Stone To Plastic
 date: Sunday, Jul 21st
 author: HG
-image: /public/assets/uploads/news/post-104.jpg
+image: /assets/uploads/post-104.jpg
 description: (The Egyptian Queen )
 layout: ../../../layouts/Post.astro
 ---

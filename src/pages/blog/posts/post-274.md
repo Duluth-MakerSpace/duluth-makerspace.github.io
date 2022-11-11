@@ -2,7 +2,7 @@
 title: Furnace, Power, TV
 date: Friday, Nov 28th
 author: Joe
-image: /public/assets/uploads/news/post-274.jpg
+image: /assets/uploads/post-274.jpg
 description: (TV mounted. good to use as a monitor for smaller presentation classes as well.)
 layout: ../../../layouts/Post.astro
 ---

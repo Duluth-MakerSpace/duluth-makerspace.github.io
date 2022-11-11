@@ -2,7 +2,7 @@
 title: Save The Dates!
 date: Wednesday, Aug 3rd
 author: Joe
-image: /public/assets/uploads/news/post-188.jpg
+image: /assets/uploads/post-188.jpg
 description: (Make your own save the dates!  These were 3in maple slices)
 layout: ../../../layouts/Post.astro
 ---

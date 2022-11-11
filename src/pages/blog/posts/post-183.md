@@ -2,7 +2,7 @@
 title: Large CNC Work
 date: Saturday, Oct 22nd
 author: Joe
-image: /public/assets/uploads/news/post-183.jpg
+image: /assets/uploads/post-183.jpg
 description: (Steve made a commercial sign, turned out very well.)
 layout: ../../../layouts/Post.astro
 ---

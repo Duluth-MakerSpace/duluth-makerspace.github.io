@@ -2,7 +2,7 @@
 title: DIY Kitchen Island
 date: Monday, May 27th
 author: Hg
-image: /public/assets/uploads/news/post-111.jpg
+image: /assets/uploads/post-111.jpg
 description: (Why not just do it yourself!)
 layout: ../../../layouts/Post.astro
 ---

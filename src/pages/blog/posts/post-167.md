@@ -2,7 +2,7 @@
 title: Embroidered What?
 date: Sunday, May 14th
 author: Joe
-image: /public/assets/uploads/news/post-167.jpg
+image: /assets/uploads/post-167.jpg
 description: (Lynelle has a sense of humor in choosing her materials for embroidering!)
 layout: ../../../layouts/Post.astro
 ---

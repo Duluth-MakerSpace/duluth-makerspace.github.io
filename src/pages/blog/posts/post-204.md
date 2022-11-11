@@ -2,7 +2,7 @@
 title: Clay Animals!
 date: Monday, Jul 6th
 author: Joe
-image: /public/assets/uploads/news/post-204.jpg
+image: /assets/uploads/post-204.jpg
 description: (Clay animal class creations.)
 layout: ../../../layouts/Post.astro
 ---

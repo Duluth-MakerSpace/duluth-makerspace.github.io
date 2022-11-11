@@ -2,7 +2,7 @@
 title: Lincoln Park Art Day
 date: Tuesday, Aug 18th
 author: Joe
-image: /public/assets/uploads/news/post-202.jpg
+image: /assets/uploads/post-202.jpg
 description: (Spinograph being tested)
 layout: ../../../layouts/Post.astro
 ---

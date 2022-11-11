@@ -2,7 +2,7 @@
 title: Big Laser
 date: Saturday, Jun 13th
 author: Joe
-image: /public/assets/uploads/news/post-207.jpg
+image: /assets/uploads/post-207.jpg
 description: (Results from last weeks laser engraving of rocks!)
 layout: ../../../layouts/Post.astro
 ---

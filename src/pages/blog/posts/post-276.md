@@ -2,7 +2,7 @@
 title: Make Night
 date: Wednesday, Nov 26th
 author: Joe
-image: /public/assets/uploads/news/post-276.jpg
+image: /assets/uploads/post-276.jpg
 description: (Sketchup designed, clear pla printed M with RGB addressable Light Holes in Back, with random color drifting arduino program.)
 layout: ../../../layouts/Post.astro
 ---

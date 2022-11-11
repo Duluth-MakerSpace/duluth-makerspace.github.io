@@ -2,7 +2,7 @@
 title: Kids LED Party
 date: Thursday, Oct 30th
 author: Joe
-image: /public/assets/uploads/news/post-296.jpg
+image: /assets/uploads/post-296.jpg
 description: (Black foam board laser cut lanterns, and led strips.)
 layout: ../../../layouts/Post.astro
 ---

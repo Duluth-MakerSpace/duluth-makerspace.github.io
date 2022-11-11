@@ -2,7 +2,7 @@
 title: Member Drive In Final Stretch!
 date: Thursday, Feb 23rd
 author: Joe
-image: /public/assets/uploads/news/post-170.jpg
+image: /assets/uploads/post-170.jpg
 description: (Royal's Forge Bending Class produced some quality Trivets!)
 layout: ../../../layouts/Post.astro
 ---

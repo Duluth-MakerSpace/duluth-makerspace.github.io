@@ -2,7 +2,7 @@
 title: Happy New Year!
 date: Thursday, Jan 1st
 author: Joe
-image: /public/assets/uploads/news/post-250.jpg
+image: /assets/uploads/post-250.jpg
 description: (Happy 2015!)
 layout: ../../../layouts/Post.astro
 ---

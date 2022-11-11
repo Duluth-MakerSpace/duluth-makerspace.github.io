@@ -2,7 +2,7 @@
 title: Tech Shop Cleanup
 date: Monday, Jan 21st
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-145.jpg
+image: /assets/uploads/post-145.jpg
 description: (Shoutout for the Cleanup )
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Fired Pottery
 date: Thursday, Jan 17th
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-148.jpg
+image: /assets/uploads/post-148.jpg
 description: (Fired pottery ready for pickup! )
 layout: ../../../layouts/Post.astro
 ---

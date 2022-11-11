@@ -2,7 +2,7 @@
 title: Spelunking In Style
 date: Tuesday, Feb 23rd
 author: 
-image: /public/assets/uploads/news/post-042.jpg
+image: /assets/uploads/post-042.jpg
 description: (Spellcheck please... Spelunking??)
 layout: ../../../layouts/Post.astro
 ---

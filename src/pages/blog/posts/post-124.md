@@ -2,7 +2,7 @@
 title: A Smashing Hit
 date: Thursday, Apr 4th
 author: Hg
-image: /public/assets/uploads/news/post-124.jpg
+image: /assets/uploads/post-124.jpg
 description: (Mike and his art )
 layout: ../../../layouts/Post.astro
 ---

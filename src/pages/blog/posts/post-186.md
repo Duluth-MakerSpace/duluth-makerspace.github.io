@@ -2,7 +2,7 @@
 title: Grand Opening Success!
 date: Sunday, Sep 18th
 author: Joe
-image: /public/assets/uploads/news/post-186.jpg
+image: /assets/uploads/post-186.jpg
 description: (The new MakerSpace robot some of our members made. )
 layout: ../../../layouts/Post.astro
 ---

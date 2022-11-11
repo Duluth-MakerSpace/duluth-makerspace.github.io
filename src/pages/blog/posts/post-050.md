@@ -2,7 +2,7 @@
 title: Go Timberwolves!
 date: Thursday, Dec 17th
 author: hg
-image: /public/assets/uploads/news/post-050.jpg
+image: /assets/uploads/post-050.jpg
 description: (Another great project from the x-carve )
 layout: ../../../layouts/Post.astro
 ---

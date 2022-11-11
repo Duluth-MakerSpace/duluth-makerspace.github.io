@@ -2,7 +2,7 @@
 title: Huge CNC Project
 date: Thursday, Nov 24th
 author: Joe
-image: /public/assets/uploads/news/post-180.jpg
+image: /assets/uploads/post-180.jpg
 description: (Devin's Massive Smooth Avocado Shaped Creation)
 layout: ../../../layouts/Post.astro
 ---

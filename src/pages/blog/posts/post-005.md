@@ -2,7 +2,7 @@
 title: DIY Furler
 date: Thursday, Sep 30th
 author: HG
-image: /public/assets/uploads/news/post-005.jpg
+image: /assets/uploads/post-005.jpg
 description: (Just had to spend a lil time on the metal lathe)
 layout: ../../../layouts/Post.astro
 ---

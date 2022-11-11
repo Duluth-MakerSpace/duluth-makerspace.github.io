@@ -2,7 +2,7 @@
 title: Devans DIY Bike Rack
 date: Wednesday, Oct 23rd
 author: HG
-image: /public/assets/uploads/news/post-094.jpg
+image: /assets/uploads/post-094.jpg
 description: (A New rack for exploring the Pacific Northwest)
 layout: ../../../layouts/Post.astro
 ---

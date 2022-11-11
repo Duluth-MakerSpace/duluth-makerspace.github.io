@@ -2,7 +2,7 @@
 title: Caving Or Splelunking?
 date: Friday, May 7th
 author: HG
-image: /public/assets/uploads/news/post-030.jpg
+image: /assets/uploads/post-030.jpg
 description: (I guess there's a difference )
 layout: ../../../layouts/Post.astro
 ---

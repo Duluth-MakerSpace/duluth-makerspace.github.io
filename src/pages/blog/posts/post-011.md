@@ -2,7 +2,7 @@
 title: Zen Rakes
 date: Friday, Aug 27th
 author: HG
-image: /public/assets/uploads/news/post-011.jpg
+image: /assets/uploads/post-011.jpg
 description: (Soooo Peaceful )
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Saturday Progress
 date: Saturday, Dec 6th
 author: Joe
-image: /public/assets/uploads/news/post-266.jpg
+image: /assets/uploads/post-266.jpg
 description: (Chris's handiwork?)
 layout: ../../../layouts/Post.astro
 ---

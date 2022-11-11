@@ -2,7 +2,7 @@
 title: Jacobs Lights
 date: Saturday, May 4th
 author: Hg
-image: /public/assets/uploads/news/post-117.jpg
+image: /assets/uploads/post-117.jpg
 description: (It’s Finished ! )
 layout: ../../../layouts/Post.astro
 ---

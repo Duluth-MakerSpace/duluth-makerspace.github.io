@@ -2,7 +2,7 @@
 title: Stocking Stuffers
 date: Sunday, Dec 6th
 author: hg
-image: /public/assets/uploads/news/post-053.jpg
+image: /assets/uploads/post-053.jpg
 description: (A perfect solution for the maker in your life )
 layout: ../../../layouts/Post.astro
 ---

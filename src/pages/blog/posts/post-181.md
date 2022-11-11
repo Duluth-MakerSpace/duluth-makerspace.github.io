@@ -2,7 +2,7 @@
 title: Laser Cutter Versatility
 date: Thursday, Nov 24th
 author: Joe
-image: /public/assets/uploads/news/post-181.jpg
+image: /assets/uploads/post-181.jpg
 description: (Member Paul cut out hundreds of cardboard pieces for this slot-assembled surfboard form!)
 layout: ../../../layouts/Post.astro
 ---

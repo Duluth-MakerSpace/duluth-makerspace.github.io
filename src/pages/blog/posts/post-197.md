@@ -2,7 +2,7 @@
 title: Duluth MakerSpace Open House
 date: Monday, Feb 1st
 author: Joe
-image: /public/assets/uploads/news/post-197.jpg
+image: /assets/uploads/post-197.jpg
 layout: ../../../layouts/Post.astro
 ---
 

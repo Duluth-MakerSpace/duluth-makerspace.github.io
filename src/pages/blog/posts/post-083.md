@@ -2,7 +2,7 @@
 title: His Employee Party Is Better Than Yours
 date: Monday, Jan 13th
 author: hg
-image: /public/assets/uploads/news/post-083.jpg
+image: /assets/uploads/post-083.jpg
 description: (Nailed It)
 layout: ../../../layouts/Post.astro
 ---

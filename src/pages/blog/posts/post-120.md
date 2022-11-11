@@ -2,7 +2,7 @@
 title: Exotic Furniture For The Bedroom
 date: Saturday, Apr 27th
 author: Hg
-image: /public/assets/uploads/news/post-120.jpg
+image: /assets/uploads/post-120.jpg
 description: (It’s foreign )
 layout: ../../../layouts/Post.astro
 ---

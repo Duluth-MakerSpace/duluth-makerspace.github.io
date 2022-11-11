@@ -2,7 +2,7 @@
 title: First Class!
 date: Tuesday, Nov 18th
 author: Joe
-image: /public/assets/uploads/news/post-282.jpg
+image: /assets/uploads/post-282.jpg
 description: (Josh running his hand-planing class.)
 layout: ../../../layouts/Post.astro
 ---

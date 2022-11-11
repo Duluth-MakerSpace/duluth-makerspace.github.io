@@ -2,7 +2,7 @@
 title: Storage Space
 date: Wednesday, Jul 17th
 author: HG
-image: /public/assets/uploads/news/post-105.jpg
+image: /assets/uploads/post-105.jpg
 description: (Do need storage space ?)
 layout: ../../../layouts/Post.astro
 ---

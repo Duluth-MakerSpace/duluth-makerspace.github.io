@@ -2,7 +2,7 @@
 title: CNC'd Electric Violin
 date: Sunday, Jul 10th
 author: Joe
-image: /public/assets/uploads/news/post-190.jpg
+image: /assets/uploads/post-190.jpg
 description: (JoeH's original design for an Electric Violin. )
 layout: ../../../layouts/Post.astro
 ---

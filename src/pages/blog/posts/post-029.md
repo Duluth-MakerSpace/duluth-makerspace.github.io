@@ -2,7 +2,7 @@
 title: Alexandriasoraus
 date: Friday, May 7th
 author: HG
-image: /public/assets/uploads/news/post-029.jpg
+image: /assets/uploads/post-029.jpg
 description: (A brand new species )
 layout: ../../../layouts/Post.astro
 ---

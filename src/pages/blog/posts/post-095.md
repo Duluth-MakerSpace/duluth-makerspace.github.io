@@ -2,7 +2,7 @@
 title: Member Drive Month !
 date: Wednesday, Oct 2nd
 author: hg
-image: /public/assets/uploads/news/post-095.jpg
+image: /assets/uploads/post-095.jpg
 description: (Bring your friends, family and coworkers!)
 layout: ../../../layouts/Post.astro
 ---

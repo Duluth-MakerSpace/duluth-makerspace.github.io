@@ -2,7 +2,7 @@
 title: Kool Kimono
 date: Sunday, Mar 17th
 author: Hg
-image: /public/assets/uploads/news/post-127.jpg
+image: /assets/uploads/post-127.jpg
 description: (Some see tablecloth others upcycled kimono )
 layout: ../../../layouts/Post.astro
 ---

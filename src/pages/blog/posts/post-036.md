@@ -2,7 +2,7 @@
 title: Spelunking King
 date: Saturday, Mar 27th
 author: hg
-image: /public/assets/uploads/news/post-036.jpg
+image: /assets/uploads/post-036.jpg
 description: (Show him to the Caves! )
 layout: ../../../layouts/Post.astro
 ---

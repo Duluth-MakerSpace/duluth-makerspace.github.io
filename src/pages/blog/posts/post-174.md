@@ -2,7 +2,7 @@
 title: February Member Drive!
 date: Friday, Feb 3rd
 author: Joe
-image: /public/assets/uploads/news/post-174.jpg
+image: /assets/uploads/post-174.jpg
 layout: ../../../layouts/Post.astro
 ---
 

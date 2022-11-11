@@ -2,7 +2,7 @@
 title: New Tent
 date: Friday, Feb 22nd
 author: HG
-image: /public/assets/uploads/news/post-133.jpg
+image: /assets/uploads/post-133.jpg
 description: (Focused ! )
 layout: ../../../layouts/Post.astro
 ---

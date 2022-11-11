@@ -5,7 +5,7 @@ set -u;
 # save the news page somewhere so we don't repeatedly query the server
 INPUT_PATH=${INPUT_FILENAME:-"bin/news.html"}
 INPUT_FILENAME=$(basename "${INPUT_PATH}")
-OUTPUT_ASSETS_DIR=${OUTPUT_ASSETS_DIR:-"public/assets/uploads/news"}
+OUTPUT_ASSETS_DIR=${OUTPUT_ASSETS_DIR:-"public/assets/uploads"}
 OUTPUT_POSTS_DIR=${OUTPUT_POSTS_DIR:-"src/pages/blog/posts"}
 
 # selectors taken from chrome inspect element > copy jspath
@@ -68,7 +68,7 @@ for f in title-*; do
         fi
         pushd "${TEMPDIR}"
 
-        echo "image: /public/assets/uploads/news/post-${n}.jpg" >> "${mdFile}"
+        echo "image: /assets/uploads/post-${n}.jpg" >> "${mdFile}"
     fi
 
     [ ! -z "${bodyImageCaption}" ] && echo "description: ${bodyImageCaption}" >> "${mdFile}"

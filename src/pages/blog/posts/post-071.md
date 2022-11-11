@@ -2,7 +2,7 @@
 title: First Time Craftsman
 date: Monday, Sep 14th
 author: HG
-image: /public/assets/uploads/news/post-071.jpg
+image: /assets/uploads/post-071.jpg
 description: (Dive in and make!)
 layout: ../../../layouts/Post.astro
 ---

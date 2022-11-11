@@ -2,7 +2,7 @@
 title: Beautiful Days For MakerSpace Work!
 date: Wednesday, Apr 15th
 author: Joe
-image: /public/assets/uploads/news/post-220.jpg
+image: /assets/uploads/post-220.jpg
 description: (Group Photo)
 layout: ../../../layouts/Post.astro
 ---

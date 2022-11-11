@@ -2,7 +2,7 @@
 title: Garden Rocks!
 date: Friday, May 20th
 author: Joe
-image: /public/assets/uploads/news/post-193.jpg
+image: /assets/uploads/post-193.jpg
 description: (Laser Engraving some rocks for your garden is super easy!)
 layout: ../../../layouts/Post.astro
 ---

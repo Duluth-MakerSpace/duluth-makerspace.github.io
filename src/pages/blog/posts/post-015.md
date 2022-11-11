@@ -2,7 +2,7 @@
 title: Board Repair
 date: Tuesday, Jul 20th
 author: HG
-image: /public/assets/uploads/news/post-015.jpg
+image: /assets/uploads/post-015.jpg
 description: (Ready for the Next Wave!)
 layout: ../../../layouts/Post.astro
 ---

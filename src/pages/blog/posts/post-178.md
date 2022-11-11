@@ -2,7 +2,7 @@
 title: Fan Art
 date: Friday, Dec 23rd
 author: Joe
-image: /public/assets/uploads/news/post-178.jpg
+image: /assets/uploads/post-178.jpg
 description: (Jessica's Pokeman fan art has custom Arduino controlled animated lighting!)
 layout: ../../../layouts/Post.astro
 ---

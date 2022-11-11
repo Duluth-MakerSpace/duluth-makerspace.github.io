@@ -2,7 +2,7 @@
 title: Kerouac Dreams
 date: Friday, Apr 16th
 author: hg
-image: /public/assets/uploads/news/post-032.jpg
+image: /assets/uploads/post-032.jpg
 description: (Headed West )
 layout: ../../../layouts/Post.astro
 ---

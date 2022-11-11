@@ -2,7 +2,7 @@
 title: Game On
 date: Wednesday, Jul 17th
 author: HG
-image: /public/assets/uploads/news/post-106.jpg
+image: /assets/uploads/post-106.jpg
 description: (Ready for a mythical adventure ?)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Christmas Gifts
 date: Tuesday, Dec 23rd
 author: Joe
-image: /public/assets/uploads/news/post-253.jpg
+image: /assets/uploads/post-253.jpg
 description: (Karl's Leaf Laser Cutting)
 layout: ../../../layouts/Post.astro
 ---

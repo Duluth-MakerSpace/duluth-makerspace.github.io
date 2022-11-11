@@ -2,7 +2,7 @@
 title: Going West
 date: Friday, Feb 21st
 author: Hg
-image: /public/assets/uploads/news/post-077.jpg
+image: /assets/uploads/post-077.jpg
 layout: ../../../layouts/Post.astro
 ---
 

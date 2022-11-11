@@ -2,7 +2,7 @@
 title: Ingenuity
 date: Saturday, Jul 6th
 author: hg
-image: /public/assets/uploads/news/post-108.jpg
+image: /assets/uploads/post-108.jpg
 description: (Weddings can get boring .... but not this one )
 layout: ../../../layouts/Post.astro
 ---

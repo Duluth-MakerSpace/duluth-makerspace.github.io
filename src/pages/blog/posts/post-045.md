@@ -2,7 +2,7 @@
 title: Birdseye View
 date: Thursday, Feb 11th
 author: hg
-image: /public/assets/uploads/news/post-045.jpg
+image: /assets/uploads/post-045.jpg
 description: (MOOSE! )
 layout: ../../../layouts/Post.astro
 ---

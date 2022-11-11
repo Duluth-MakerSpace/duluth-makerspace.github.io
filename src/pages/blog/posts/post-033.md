@@ -2,7 +2,7 @@
 title: Makerspace Maple Syrup Boiler
 date: Friday, Apr 16th
 author: hg
-image: /public/assets/uploads/news/post-033.jpg
+image: /assets/uploads/post-033.jpg
 description: (Tis the Season )
 layout: ../../../layouts/Post.astro
 ---

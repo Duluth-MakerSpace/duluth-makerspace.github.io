@@ -2,7 +2,7 @@
 title: DMS Got A Garden
 date: Wednesday, Jul 14th
 author: HG
-image: /public/assets/uploads/news/post-018.jpg
+image: /assets/uploads/post-018.jpg
 description: (Grow Baby, Grow!)
 layout: ../../../layouts/Post.astro
 ---

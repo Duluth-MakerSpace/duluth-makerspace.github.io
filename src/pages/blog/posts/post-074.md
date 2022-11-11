@@ -2,7 +2,7 @@
 title: Reopening
 date: Monday, Jun 8th
 author: HG
-image: /public/assets/uploads/news/post-074.jpg
+image: /assets/uploads/post-074.jpg
 description: (Its time to get the ball rollin )
 layout: ../../../layouts/Post.astro
 ---

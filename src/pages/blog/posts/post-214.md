@@ -2,7 +2,7 @@
 title: Pottery And Metal Shop Build Out
 date: Wednesday, Apr 29th
 author: Joe
-image: /public/assets/uploads/news/post-214.jpg
+image: /assets/uploads/post-214.jpg
 description: (Sweet Hubsan Mini Quad frame made by someone who took 3D printing class Sunday!)
 layout: ../../../layouts/Post.astro
 ---

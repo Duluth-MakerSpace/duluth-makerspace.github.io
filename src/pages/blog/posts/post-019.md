@@ -2,7 +2,7 @@
 title: Second Floor Renovation
 date: Thursday, Jun 10th
 author: HG
-image: /public/assets/uploads/news/post-019.jpg
+image: /assets/uploads/post-019.jpg
 description: (New place to turn out some clay!)
 layout: ../../../layouts/Post.astro
 ---

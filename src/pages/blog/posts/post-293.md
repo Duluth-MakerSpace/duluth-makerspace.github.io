@@ -2,7 +2,7 @@
 title: Weekly Meeting
 date: Sunday, Nov 2nd
 author: Joe
-image: /public/assets/uploads/news/post-293.jpg
+image: /assets/uploads/post-293.jpg
 description: (We did Laser toast some bread though!)
 layout: ../../../layouts/Post.astro
 ---

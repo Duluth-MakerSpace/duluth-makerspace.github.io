@@ -2,7 +2,7 @@
 title: We Got The Permit!
 date: Saturday, Nov 9th
 author: HG
-image: /public/assets/uploads/news/post-092.jpg
+image: /assets/uploads/post-092.jpg
 description: (Mission is a Go!)
 layout: ../../../layouts/Post.astro
 ---

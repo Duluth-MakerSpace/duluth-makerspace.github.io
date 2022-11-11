@@ -2,7 +2,7 @@
 title: Tours
 date: Monday, Jan 31st
 author: Mike
-image: /public/assets/uploads/news/post-002.jpg
+image: /assets/uploads/post-002.jpg
 description: (Tours of Duluth Makerspace available)
 layout: ../../../layouts/Post.astro
 ---

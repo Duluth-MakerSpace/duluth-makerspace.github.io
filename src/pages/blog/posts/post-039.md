@@ -2,7 +2,7 @@
 title: Community Is Our Greatest Project At DMS!
 date: Friday, Feb 26th
 author: hg
-image: /public/assets/uploads/news/post-039.jpg
+image: /assets/uploads/post-039.jpg
 description: (THANK YOU!)
 layout: ../../../layouts/Post.astro
 ---

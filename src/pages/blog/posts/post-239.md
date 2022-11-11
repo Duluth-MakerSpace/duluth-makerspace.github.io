@@ -2,7 +2,7 @@
 title: Busy Saturday
 date: Saturday, Jan 31st
 author: Joe
-image: /public/assets/uploads/news/post-239.jpg
+image: /assets/uploads/post-239.jpg
 description: (A visitor's nice first creation by 3D Pen.)
 layout: ../../../layouts/Post.astro
 ---

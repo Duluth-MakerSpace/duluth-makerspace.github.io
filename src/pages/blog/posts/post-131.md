@@ -2,7 +2,7 @@
 title: Northern Light Community School Tour
 date: Wednesday, Feb 27th
 author: HG
-image: /public/assets/uploads/news/post-131.jpg
+image: /assets/uploads/post-131.jpg
 description: (Creative Sparks are Flying )
 layout: ../../../layouts/Post.astro
 ---

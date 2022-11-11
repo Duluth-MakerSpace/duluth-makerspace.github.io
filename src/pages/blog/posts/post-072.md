@@ -2,7 +2,7 @@
 title: Keep The Ball Rolling
 date: Tuesday, Sep 8th
 author: H.G
-image: /public/assets/uploads/news/post-072.jpg
+image: /assets/uploads/post-072.jpg
 description: (We Passed our Inspection! )
 layout: ../../../layouts/Post.astro
 ---

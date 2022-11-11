@@ -2,7 +2,7 @@
 title: Minnesota Swag
 date: Thursday, Sep 30th
 author: HG
-image: /public/assets/uploads/news/post-004.jpg
+image: /assets/uploads/post-004.jpg
 description: (Cement mold making on the Big CNC )
 layout: ../../../layouts/Post.astro
 ---

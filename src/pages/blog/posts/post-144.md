@@ -2,7 +2,7 @@
 title: Fancy Snurfboard
 date: Saturday, Jan 26th
 author: Miranda
-image: /public/assets/uploads/news/post-144.jpg
+image: /assets/uploads/post-144.jpg
 description: (Jeremy and his snurfboard)
 layout: ../../../layouts/Post.astro
 ---

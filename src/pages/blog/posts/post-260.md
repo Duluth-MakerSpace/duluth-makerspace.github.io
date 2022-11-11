@@ -2,7 +2,7 @@
 title: Pong Project Partially Pinging
 date: Saturday, Dec 13th
 author: Joe
-image: /public/assets/uploads/news/post-260.jpg
+image: /assets/uploads/post-260.jpg
 description: (Karl's fancy cookies with a 3D printed cookie cutter!)
 layout: ../../../layouts/Post.astro
 ---

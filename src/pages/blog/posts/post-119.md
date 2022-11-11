@@ -2,7 +2,7 @@
 title: Jacob’s Intricate Light Fixtures
 date: Saturday, Apr 27th
 author: Hg
-image: /public/assets/uploads/news/post-119.jpg
+image: /assets/uploads/post-119.jpg
 description: (Can’t wait to see final result!)
 layout: ../../../layouts/Post.astro
 ---

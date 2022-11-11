@@ -2,7 +2,7 @@
 title: A Little Ingenuity Goes A Long Way
 date: Wednesday, Dec 11th
 author: hg
-image: /public/assets/uploads/news/post-089.jpg
+image: /assets/uploads/post-089.jpg
 description: (Partly function / Partly fun )
 layout: ../../../layouts/Post.astro
 ---

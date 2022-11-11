@@ -2,7 +2,7 @@
 title: Edge Lit Acrylics Class
 date: Tuesday, Aug 18th
 author: Joe
-image: /public/assets/uploads/news/post-201.jpg
+image: /assets/uploads/post-201.jpg
 description: (class creations)
 layout: ../../../layouts/Post.astro
 ---

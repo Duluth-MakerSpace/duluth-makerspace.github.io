@@ -2,7 +2,7 @@
 title: What Goes Up Must Come Down .... With A Parachute?
 date: Sunday, Jan 27th
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-141.jpg
+image: /assets/uploads/post-141.jpg
 description: (Brice’s rocket parachute )
 layout: ../../../layouts/Post.astro
 ---

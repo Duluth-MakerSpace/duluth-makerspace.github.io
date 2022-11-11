@@ -2,7 +2,7 @@
 title: Duluth Makerspace Represent
 date: Friday, Apr 16th
 author: hg
-image: /public/assets/uploads/news/post-031.jpg
+image: /assets/uploads/post-031.jpg
 description: (Welding for Beer? )
 layout: ../../../layouts/Post.astro
 ---

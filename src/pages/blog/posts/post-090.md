@@ -2,7 +2,7 @@
 title: Open House
 date: Thursday, Dec 5th
 author: hg
-image: /public/assets/uploads/news/post-090.jpg
+image: /assets/uploads/post-090.jpg
 description: (Join Us )
 layout: ../../../layouts/Post.astro
 ---

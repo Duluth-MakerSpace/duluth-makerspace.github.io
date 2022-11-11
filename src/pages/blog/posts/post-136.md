@@ -2,7 +2,7 @@
 title: Members Demo Night
 date: Saturday, Feb 9th
 author: HG
-image: /public/assets/uploads/news/post-136.jpg
+image: /assets/uploads/post-136.jpg
 description: (Learning about all the three dimensional potentials of the x-carve )
 layout: ../../../layouts/Post.astro
 ---

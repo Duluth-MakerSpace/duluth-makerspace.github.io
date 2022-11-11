@@ -2,7 +2,7 @@
 title: Fix It!
 date: Monday, Nov 2nd
 author: HG
-image: /public/assets/uploads/news/post-061.jpg
+image: /assets/uploads/post-061.jpg
 description: (Fix it at the Makerspace!)
 layout: ../../../layouts/Post.astro
 ---

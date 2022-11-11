@@ -2,7 +2,7 @@
 title: Work Night On The Second Floor!
 date: Friday, Sep 25th
 author: Hg
-image: /public/assets/uploads/news/post-067.jpg
+image: /assets/uploads/post-067.jpg
 layout: ../../../layouts/Post.astro
 ---
 

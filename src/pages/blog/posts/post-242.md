@@ -2,7 +2,7 @@
 title: Playing With Snap Circuits
 date: Thursday, Jan 22nd
 author: Joe
-image: /public/assets/uploads/news/post-242.jpg
+image: /assets/uploads/post-242.jpg
 description: (Dennis' son figuring out circuits)
 layout: ../../../layouts/Post.astro
 ---

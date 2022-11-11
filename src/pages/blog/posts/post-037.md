@@ -2,7 +2,7 @@
 title: Dumpster Dundee
 date: Tuesday, Mar 16th
 author: hg
-image: /public/assets/uploads/news/post-037.jpg
+image: /assets/uploads/post-037.jpg
 description: (New phone who dis? )
 layout: ../../../layouts/Post.astro
 ---

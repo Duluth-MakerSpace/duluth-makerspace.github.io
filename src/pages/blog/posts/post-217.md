@@ -2,7 +2,7 @@
 title: Open House Prep Work
 date: Tuesday, Apr 21st
 author: Joe
-image: /public/assets/uploads/news/post-217.jpg
+image: /assets/uploads/post-217.jpg
 description: (laser cut plywood box)
 layout: ../../../layouts/Post.astro
 ---

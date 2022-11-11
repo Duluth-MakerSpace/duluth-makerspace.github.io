@@ -2,7 +2,7 @@
 title: Mini CNC Working Well
 date: Thursday, Feb 19th
 author: Joe
-image: /public/assets/uploads/news/post-233.jpg
+image: /assets/uploads/post-233.jpg
 description: (Example Wood Cutting)
 layout: ../../../layouts/Post.astro
 ---

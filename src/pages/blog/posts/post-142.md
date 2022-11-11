@@ -2,7 +2,7 @@
 title: X-Carve Class With Randy
 date: Saturday, Jan 26th
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-142.jpg
+image: /assets/uploads/post-142.jpg
 description: (Congrats on teachin your first class ! )
 layout: ../../../layouts/Post.astro
 ---

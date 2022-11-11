@@ -2,7 +2,7 @@
 title: 1st Annual Gitchee Gummi Festival
 date: Monday, May 31st
 author: HG
-image: /public/assets/uploads/news/post-025.jpg
+image: /assets/uploads/post-025.jpg
 description: (Save the Date!)
 layout: ../../../layouts/Post.astro
 ---

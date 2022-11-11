@@ -2,7 +2,7 @@
 title: Opening This Sunday!
 date: Monday, Nov 10th
 author: Joe
-image: /public/assets/uploads/news/post-287.jpg
+image: /assets/uploads/post-287.jpg
 layout: ../../../layouts/Post.astro
 ---
 

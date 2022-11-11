@@ -2,7 +2,7 @@
 title: Barnes And Noble Mini Maker Faire
 date: Tuesday, Nov 10th
 author: Joe
-image: /public/assets/uploads/news/post-199.jpg
+image: /assets/uploads/post-199.jpg
 description: (Members Jenni and Chris volunteering at event.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Electronics Bench Improvements
 date: Sunday, Jan 4th
 author: Joe
-image: /public/assets/uploads/news/post-248.jpg
+image: /assets/uploads/post-248.jpg
 description: (Electronics Bench Outfitted!)
 layout: ../../../layouts/Post.astro
 ---

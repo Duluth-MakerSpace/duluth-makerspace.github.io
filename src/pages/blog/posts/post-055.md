@@ -2,7 +2,7 @@
 title: In The Metalshop
 date: Monday, Nov 23rd
 author: hg
-image: /public/assets/uploads/news/post-055.jpg
+image: /assets/uploads/post-055.jpg
 description: (Welding Away)
 layout: ../../../layouts/Post.astro
 ---

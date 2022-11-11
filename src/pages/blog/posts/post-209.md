@@ -2,7 +2,7 @@
 title: Productive Lately
 date: Monday, May 25th
 author: Joe
-image: /public/assets/uploads/news/post-209.jpg
+image: /assets/uploads/post-209.jpg
 description: (Chris setup a pong clock running off a raspberry PI)
 layout: ../../../layouts/Post.astro
 ---

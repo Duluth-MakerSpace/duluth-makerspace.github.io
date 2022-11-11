@@ -2,7 +2,7 @@
 title: Fixing It W/ Mike!
 date: Wednesday, Oct 14th
 author: HG
-image: /public/assets/uploads/news/post-066.jpg
+image: /assets/uploads/post-066.jpg
 description: (Make it In the Metal Shop!)
 layout: ../../../layouts/Post.astro
 ---

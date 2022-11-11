@@ -2,7 +2,7 @@
 title: Old 2 New
 date: Monday, Mar 25th
 author: hg
-image: /public/assets/uploads/news/post-126.jpg
+image: /assets/uploads/post-126.jpg
 description: (Bringing the old back to new )
 layout: ../../../layouts/Post.astro
 ---

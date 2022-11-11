@@ -2,7 +2,7 @@
 title: Random Projects
 date: Thursday, Mar 26th
 author: Joe
-image: /public/assets/uploads/news/post-227.jpg
+image: /assets/uploads/post-227.jpg
 description: (Glass Etching , Wire Wrap Surfer, and... Aluminum Heatsink Monster.)
 layout: ../../../layouts/Post.astro
 ---

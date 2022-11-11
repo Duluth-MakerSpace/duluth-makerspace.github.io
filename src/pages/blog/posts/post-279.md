@@ -2,7 +2,7 @@
 title: Furnace Battle
 date: Friday, Nov 21st
 author: Joe
-image: /public/assets/uploads/news/post-279.jpg
+image: /assets/uploads/post-279.jpg
 description: (simple project.)
 layout: ../../../layouts/Post.astro
 ---

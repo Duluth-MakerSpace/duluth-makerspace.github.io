@@ -2,7 +2,7 @@
 title: Game Cabinet
 date: Thursday, Feb 12th
 author: Joe
-image: /public/assets/uploads/news/post-234.jpg
+image: /assets/uploads/post-234.jpg
 description: (Chris's game cabinet project.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Woodshop Improvements
 date: Thursday, Sep 15th
 author: Miranda
-image: /public/assets/uploads/news/post-187.jpg
+image: /assets/uploads/post-187.jpg
 layout: ../../../layouts/Post.astro
 ---
 

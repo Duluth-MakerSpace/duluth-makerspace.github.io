@@ -2,7 +2,7 @@
 title: Busy Night
 date: Friday, May 7th
 author: HG
-image: /public/assets/uploads/news/post-028.jpg
+image: /assets/uploads/post-028.jpg
 description: (Too many cooks)
 layout: ../../../layouts/Post.astro
 ---

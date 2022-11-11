@@ -2,7 +2,7 @@
 title: 2nd Floor, Big Strides
 date: Friday, Feb 26th
 author: hg
-image: /public/assets/uploads/news/post-040.jpg
+image: /assets/uploads/post-040.jpg
 description: (Cant stop this Train!)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: PUUKO!
 date: Tuesday, Feb 2nd
 author: HG
-image: /public/assets/uploads/news/post-047.jpg
+image: /assets/uploads/post-047.jpg
 description: (A sharp little Finnish Knife)
 layout: ../../../layouts/Post.astro
 ---

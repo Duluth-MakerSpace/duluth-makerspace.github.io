@@ -2,7 +2,7 @@
 title: Wire Jewelry Classroom Success And Robo Room Work
 date: Tuesday, Jan 13th
 author: Joe
-image: /public/assets/uploads/news/post-245.jpg
+image: /assets/uploads/post-245.jpg
 description: (class creations)
 layout: ../../../layouts/Post.astro
 ---

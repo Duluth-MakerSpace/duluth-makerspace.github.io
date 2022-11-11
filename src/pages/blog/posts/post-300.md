@@ -2,7 +2,7 @@
 title: Weekly Meeting
 date: Sunday, Oct 26th
 author: Joe
-image: /public/assets/uploads/news/post-300.jpg
+image: /assets/uploads/post-300.jpg
 description: (Our newest member's first laser production!  Looks great except for the monkey dog beast?)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Original Gangster
 date: Wednesday, Feb 24th
 author: HG
-image: /public/assets/uploads/news/post-041.jpg
+image: /assets/uploads/post-041.jpg
 description: (What doesn't he know ;P)
 layout: ../../../layouts/Post.astro
 ---

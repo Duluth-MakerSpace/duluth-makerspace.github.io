@@ -2,7 +2,7 @@
 title: Pre-Opening Open House Went Well!
 date: Saturday, Oct 18th
 author: Joe
-image: /public/assets/uploads/news/post-309.jpg
+image: /assets/uploads/post-309.jpg
 description: (Dual Extruded Logo Cards)
 layout: ../../../layouts/Post.astro
 ---

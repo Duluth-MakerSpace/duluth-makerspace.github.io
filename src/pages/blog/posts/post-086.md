@@ -2,7 +2,7 @@
 title: Cribbage Table
 date: Monday, Dec 30th
 author: HG
-image: /public/assets/uploads/news/post-086.jpg
+image: /assets/uploads/post-086.jpg
 description: (A Seemingly Popular DIY Gift.)
 layout: ../../../layouts/Post.astro
 ---

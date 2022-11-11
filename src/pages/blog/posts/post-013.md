@@ -2,7 +2,7 @@
 title: Metalshop 101 Is Back
 date: Friday, Aug 6th
 author: hg
-image: /public/assets/uploads/news/post-013.jpg
+image: /assets/uploads/post-013.jpg
 description: (Schools in Session)
 layout: ../../../layouts/Post.astro
 ---

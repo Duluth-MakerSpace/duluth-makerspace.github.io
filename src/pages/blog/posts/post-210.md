@@ -2,7 +2,7 @@
 title: Lincoln Park Event
 date: Monday, May 18th
 author: Joe
-image: /public/assets/uploads/news/post-210.jpg
+image: /assets/uploads/post-210.jpg
 description: (our infinity mirror group project complete!)
 layout: ../../../layouts/Post.astro
 ---

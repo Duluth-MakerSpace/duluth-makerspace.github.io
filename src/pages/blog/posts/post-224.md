@@ -2,7 +2,7 @@
 title: Productive Day
 date: Sunday, Mar 29th
 author: Joe
-image: /public/assets/uploads/news/post-224.jpg
+image: /assets/uploads/post-224.jpg
 description: (Igor, the light seeker)
 layout: ../../../layouts/Post.astro
 ---

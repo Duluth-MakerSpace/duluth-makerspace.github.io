@@ -2,7 +2,7 @@
 title: Painting And Minecraft
 date: Saturday, Apr 11th
 author: Joe
-image: /public/assets/uploads/news/post-221.jpg
+image: /assets/uploads/post-221.jpg
 description: (before and after on front doors)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: The Door Making Machine
 date: Tuesday, Nov 10th
 author: hg
-image: /public/assets/uploads/news/post-059.jpg
+image: /assets/uploads/post-059.jpg
 description: (Doris!)
 layout: ../../../layouts/Post.astro
 ---

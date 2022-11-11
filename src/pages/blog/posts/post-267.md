@@ -2,7 +2,7 @@
 title: Heat!
 date: Friday, Dec 5th
 author: Joe
-image: /public/assets/uploads/news/post-267.jpg
+image: /assets/uploads/post-267.jpg
 description: (Karl's print)
 layout: ../../../layouts/Post.astro
 ---

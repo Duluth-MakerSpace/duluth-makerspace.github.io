@@ -2,7 +2,7 @@
 title: Woodshop Work
 date: Friday, Apr 19th
 author: Hg
-image: /public/assets/uploads/news/post-122.jpg
+image: /assets/uploads/post-122.jpg
 description: (Amazing what a little stain does  )
 layout: ../../../layouts/Post.astro
 ---

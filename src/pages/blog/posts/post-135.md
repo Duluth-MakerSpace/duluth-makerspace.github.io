@@ -2,7 +2,7 @@
 title: A Tropical Take On A Northerner’s Game
 date: Thursday, Feb 14th
 author: Hg
-image: /public/assets/uploads/news/post-135.jpg
+image: /assets/uploads/post-135.jpg
 description: (I can see it now palm trees, white sand, blue water ..... oh it’s snowing again )
 layout: ../../../layouts/Post.astro
 ---

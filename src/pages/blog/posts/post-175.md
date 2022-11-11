@@ -2,7 +2,7 @@
 title: New Fancy Router Table
 date: Friday, Jan 13th
 author: Joe
-image: /public/assets/uploads/news/post-175.jpg
+image: /assets/uploads/post-175.jpg
 description: (Picture of table nearly finished.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Laid Back Make Night
 date: Wednesday, Oct 29th
 author: Joe
-image: /public/assets/uploads/news/post-298.jpg
+image: /assets/uploads/post-298.jpg
 description: (Laser cutter much easier to use now.)
 layout: ../../../layouts/Post.astro
 ---

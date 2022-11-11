@@ -2,7 +2,7 @@
 title: Woodshop 101
 date: Saturday, May 4th
 author: Hg
-image: /public/assets/uploads/news/post-118.jpg
+image: /assets/uploads/post-118.jpg
 description: (Safety first)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Masking Required Again
 date: Friday, Jan 14th
 author: Board
-image: /public/assets/uploads/news/post-003.jpg
+image: /assets/uploads/post-003.jpg
 description: (Sign from the city)
 layout: ../../../layouts/Post.astro
 ---

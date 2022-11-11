@@ -2,7 +2,7 @@
 title: Make It Fast With A Foil
 date: Wednesday, Oct 14th
 author: hg
-image: /public/assets/uploads/news/post-065.jpg
+image: /assets/uploads/post-065.jpg
 layout: ../../../layouts/Post.astro
 ---
 

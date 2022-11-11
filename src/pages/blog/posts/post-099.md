@@ -2,7 +2,7 @@
 title: Classes
 date: Tuesday, Sep 3rd
 author: hg
-image: /public/assets/uploads/news/post-099.jpg
+image: /assets/uploads/post-099.jpg
 description: (Share the knowledge !)
 layout: ../../../layouts/Post.astro
 ---

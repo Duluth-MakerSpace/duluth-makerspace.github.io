@@ -2,7 +2,7 @@
 title: Giant Laser Operational!
 date: Wednesday, Jul 15th
 author: Joe
-image: /public/assets/uploads/news/post-203.jpg
+image: /assets/uploads/post-203.jpg
 description: (Laser engraved cork coasters, nice work Julie!)
 layout: ../../../layouts/Post.astro
 ---

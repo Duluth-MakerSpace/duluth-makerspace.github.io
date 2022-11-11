@@ -2,7 +2,7 @@
 title: Wood CNC Rotary Axis Built
 date: Thursday, Jan 12th
 author: Joe
-image: /public/assets/uploads/news/post-176.jpg
+image: /assets/uploads/post-176.jpg
 description: (three examples milled out of simple 4x4 construction lumber.)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Diy Mukluks
 date: Tuesday, Jan 29th
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-140.jpg
+image: /assets/uploads/post-140.jpg
 description: (Brrr it’s chilly ... time to break out the Mukluks )
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Intro To Woodcarving Class
 date: Tuesday, Dec 16th
 author: Joe
-image: /public/assets/uploads/news/post-258.jpg
+image: /assets/uploads/post-258.jpg
 description: (One of the student's of Travis' class hand carved spoon!)
 layout: ../../../layouts/Post.astro
 ---

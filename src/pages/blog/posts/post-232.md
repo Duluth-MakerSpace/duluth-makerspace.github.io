@@ -2,7 +2,7 @@
 title: Laser Candy?
 date: Saturday, Feb 21st
 author: Joe
-image: /public/assets/uploads/news/post-232.jpg
+image: /assets/uploads/post-232.jpg
 description: (Karl's sugar lasering experiments.)
 layout: ../../../layouts/Post.astro
 ---

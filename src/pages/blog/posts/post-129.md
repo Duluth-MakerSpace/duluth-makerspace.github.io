@@ -2,7 +2,7 @@
 title: Dogs !
 date: Friday, Mar 8th
 author: HG
-image: /public/assets/uploads/news/post-129.jpg
+image: /assets/uploads/post-129.jpg
 description: (Cut out in process for a jump fence, used in a obstacle course for dogs )
 layout: ../../../layouts/Post.astro
 ---

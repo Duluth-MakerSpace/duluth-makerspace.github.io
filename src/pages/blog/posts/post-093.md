@@ -2,7 +2,7 @@
 title: Whats Happening In The Woodshop
 date: Thursday, Oct 31st
 author: hg
-image: /public/assets/uploads/news/post-093.jpg
+image: /assets/uploads/post-093.jpg
 description: (A lil peek into the woodshop)
 layout: ../../../layouts/Post.astro
 ---

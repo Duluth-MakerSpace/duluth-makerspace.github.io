@@ -2,7 +2,7 @@
 title: Great Gift Idea! And Woodwork Shop.
 date: Sunday, Nov 30th
 author: Joe
-image: /public/assets/uploads/news/post-272.jpg
+image: /assets/uploads/post-272.jpg
 description: (DMS gift certificates available!)
 layout: ../../../layouts/Post.astro
 ---

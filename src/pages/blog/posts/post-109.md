@@ -2,7 +2,7 @@
 title: Second Floor Cleanup (Success)
 date: Thursday, Jun 27th
 author: HG
-image: /public/assets/uploads/news/post-109.jpg
+image: /assets/uploads/post-109.jpg
 description: (Progress)
 layout: ../../../layouts/Post.astro
 ---

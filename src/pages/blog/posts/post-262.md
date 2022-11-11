@@ -2,7 +2,7 @@
 title: Many Classes
 date: Thursday, Dec 11th
 author: Joe
-image: /public/assets/uploads/news/post-262.jpg
+image: /assets/uploads/post-262.jpg
 description: (Alyssa's Class Banner)
 layout: ../../../layouts/Post.astro
 ---

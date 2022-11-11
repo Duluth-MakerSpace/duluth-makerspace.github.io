@@ -2,7 +2,7 @@
 title: Open House Was Successful
 date: Sunday, Apr 26th
 author: Joe
-image: /public/assets/uploads/news/post-216.jpg
+image: /assets/uploads/post-216.jpg
 description: (Custom MakerSpace Logo Cookies by Leesa!)
 layout: ../../../layouts/Post.astro
 ---

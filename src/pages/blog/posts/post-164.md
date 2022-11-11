@@ -2,7 +2,7 @@
 title: Two Loons Partnership
 date: Sunday, Oct 15th
 author: Miranda
-image: /public/assets/uploads/news/post-164.jpg
+image: /assets/uploads/post-164.jpg
 description: (Our display with a few pieces )
 layout: ../../../layouts/Post.astro
 ---

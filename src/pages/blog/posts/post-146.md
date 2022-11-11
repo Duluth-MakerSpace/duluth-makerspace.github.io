@@ -2,7 +2,7 @@
 title: Royal Towel Rack
 date: Friday, Jan 18th
 author: Hyland Garvey
-image: /public/assets/uploads/news/post-146.jpg
+image: /assets/uploads/post-146.jpg
 description: (Artists take on a seemingly simple project )
 layout: ../../../layouts/Post.astro
 ---

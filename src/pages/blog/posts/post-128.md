@@ -2,7 +2,7 @@
 title: Royal Trees 🌲🌲
 date: Friday, Mar 8th
 author: HG
-image: /public/assets/uploads/news/post-128.jpg
+image: /assets/uploads/post-128.jpg
 description: (More cut-outs )
 layout: ../../../layouts/Post.astro
 ---

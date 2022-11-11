@@ -2,7 +2,7 @@
 title: One From The Archives
 date: Sunday, Dec 22nd
 author: hg
-image: /public/assets/uploads/news/post-088.jpg
+image: /assets/uploads/post-088.jpg
 description: (All done on our 100 W Laser)
 layout: ../../../layouts/Post.astro
 ---

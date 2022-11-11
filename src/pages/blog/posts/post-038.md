@@ -2,7 +2,7 @@
 title: Off-road Ability!
 date: Tuesday, Mar 16th
 author: hg
-image: /public/assets/uploads/news/post-038.jpg
+image: /assets/uploads/post-038.jpg
 description: (Happy Trails!)
 layout: ../../../layouts/Post.astro
 ---

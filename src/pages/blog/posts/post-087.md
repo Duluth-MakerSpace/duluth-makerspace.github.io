@@ -2,7 +2,7 @@
 title: We Do Pottery!
 date: Thursday, Dec 26th
 author: hg
-image: /public/assets/uploads/news/post-087.jpg
+image: /assets/uploads/post-087.jpg
 description: (Get Your Hands Dirty !)
 layout: ../../../layouts/Post.astro
 ---

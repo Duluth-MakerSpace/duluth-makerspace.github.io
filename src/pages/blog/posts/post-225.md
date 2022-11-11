@@ -2,7 +2,7 @@
 title: 3rd Place Puzzle Derby
 date: Saturday, Mar 28th
 author: Joe
-image: /public/assets/uploads/news/post-225.jpg
+image: /assets/uploads/post-225.jpg
 description: (Heather,  Alyssa, Miranda and Matt)
 layout: ../../../layouts/Post.astro
 ---

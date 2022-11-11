@@ -2,7 +2,7 @@
 title: Headed South
 date: Friday, Aug 6th
 author: HG
-image: /public/assets/uploads/news/post-012.jpg
+image: /assets/uploads/post-012.jpg
 description: (New Sail Cover)
 layout: ../../../layouts/Post.astro
 ---

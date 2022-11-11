@@ -2,7 +2,7 @@
 title: Devan Spotting
 date: Tuesday, Sep 14th
 author: HG
-image: /public/assets/uploads/news/post-009.jpg
+image: /assets/uploads/post-009.jpg
 layout: ../../../layouts/Post.astro
 ---
 

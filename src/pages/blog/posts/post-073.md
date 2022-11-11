@@ -2,7 +2,7 @@
 title: We Are Open!
 date: Thursday, Jul 23rd
 author: HG
-image: /public/assets/uploads/news/post-073.jpg
+image: /assets/uploads/post-073.jpg
 description: (Come on back! )
 layout: ../../../layouts/Post.astro
 ---

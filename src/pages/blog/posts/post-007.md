@@ -2,7 +2,7 @@
 title: Joe's New Building
 date: Tuesday, Sep 14th
 author: HG
-image: /public/assets/uploads/news/post-007.jpg
+image: /assets/uploads/post-007.jpg
 description: (Check it out this Saturday! )
 layout: ../../../layouts/Post.astro
 ---

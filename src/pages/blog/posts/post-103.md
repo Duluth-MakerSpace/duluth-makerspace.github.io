@@ -2,7 +2,7 @@
 title: 3D Tap Handles !!
 date: Friday, Aug 16th
 author: Hg
-image: /public/assets/uploads/news/post-103.jpg
+image: /assets/uploads/post-103.jpg
 description: (So cool ! )
 layout: ../../../layouts/Post.astro
 ---

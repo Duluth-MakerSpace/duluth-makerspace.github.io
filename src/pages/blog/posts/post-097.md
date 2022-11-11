@@ -2,7 +2,7 @@
 title: Media Desk
 date: Monday, Sep 23rd
 author: hg
-image: /public/assets/uploads/news/post-097.jpg
+image: /assets/uploads/post-097.jpg
 description: (Another Phenomenal woodwork project )
 layout: ../../../layouts/Post.astro
 ---

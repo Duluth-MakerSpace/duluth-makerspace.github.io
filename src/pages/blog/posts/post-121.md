@@ -2,7 +2,7 @@
 title: Drum Kit Facelift
 date: Friday, Apr 19th
 author: Hg
-image: /public/assets/uploads/news/post-121.jpg
+image: /assets/uploads/post-121.jpg
 description: (Rat-a-tat)
 layout: ../../../layouts/Post.astro
 ---

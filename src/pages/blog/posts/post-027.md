@@ -2,7 +2,7 @@
 title: Check Out These Rails
 date: Friday, May 7th
 author: HG
-image: /public/assets/uploads/news/post-027.jpg
+image: /assets/uploads/post-027.jpg
 layout: ../../../layouts/Post.astro
 ---
 

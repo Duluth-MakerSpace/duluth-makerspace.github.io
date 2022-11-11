@@ -2,7 +2,7 @@
 title: Pink Pig
 date: Thursday, Jun 10th
 author: HG
-image: /public/assets/uploads/news/post-021.jpg
+image: /assets/uploads/post-021.jpg
 layout: ../../../layouts/Post.astro
 ---
 

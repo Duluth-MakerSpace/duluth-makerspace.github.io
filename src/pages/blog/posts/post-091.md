@@ -2,7 +2,7 @@
 title: Community Is Our Greatest Asset
 date: Monday, Nov 18th
 author: HG
-image: /public/assets/uploads/news/post-091.jpg
+image: /assets/uploads/post-091.jpg
 description: (We need you !)
 layout: ../../../layouts/Post.astro
 ---

@@ -2,7 +2,7 @@
 title: Work Or Play .. Maybe Both
 date: Sunday, Sep 20th
 author: HG
-image: /public/assets/uploads/news/post-069.jpg
+image: /assets/uploads/post-069.jpg
 layout: ../../../layouts/Post.astro
 ---
 

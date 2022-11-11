@@ -2,7 +2,7 @@
 title: Even Barbie Needs A Toilet.
 date: Thursday, Apr 4th
 author: Hg
-image: /public/assets/uploads/news/post-123.jpg
+image: /assets/uploads/post-123.jpg
 description: (Pretty Pink 3D potty )
 layout: ../../../layouts/Post.astro
 ---

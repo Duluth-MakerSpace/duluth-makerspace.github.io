@@ -2,7 +2,7 @@
 title: Work Day
 date: Friday, Oct 31st
 author: Joe
-image: /public/assets/uploads/news/post-295.jpg
+image: /assets/uploads/post-295.jpg
 description: (If I had known this would take this much time...)
 layout: ../../../layouts/Post.astro
 ---

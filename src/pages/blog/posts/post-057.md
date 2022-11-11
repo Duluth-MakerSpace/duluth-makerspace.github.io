@@ -2,7 +2,7 @@
 title: So Many Projects
 date: Tuesday, Nov 10th
 author: HG
-image: /public/assets/uploads/news/post-057.jpg
+image: /assets/uploads/post-057.jpg
 description: (Is it cold outside or, is it just me?)
 layout: ../../../layouts/Post.astro
 ---

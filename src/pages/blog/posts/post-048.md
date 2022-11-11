@@ -2,7 +2,7 @@
 title: Back From The Dead
 date: Tuesday, Feb 2nd
 author: hg
-image: /public/assets/uploads/news/post-048.jpg
+image: /assets/uploads/post-048.jpg
 description: (DIESEL!!)
 layout: ../../../layouts/Post.astro
 ---
