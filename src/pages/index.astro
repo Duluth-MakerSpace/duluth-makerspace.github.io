@@ -1,7 +1,16 @@
 ---
-import { TextSection } from '@littlesticks/odyssey-theme-components';
+import { Icon } from 'astro-icon';
+import {
+  AnnouncementBar,
+  Button,
+  CustomerQuoteSection,
+  ThreeColumnTextSection,
+  YouTubeEmbedSection,
+  StickyTextImageSection,
+  CtaCardSection,
+} from '@littlesticks/odyssey-theme-components';
 import Layout from '../layouts/Page.astro';
-import HeroSection from '../components/sections/heros/HeroSection.astro';
+import TextAndImageHero from '../components/sections/heros/TextAndImageHero.astro';
 
 const seo = {
   title: 'Duluth MakerSpace | Join the Duluth MakerSpace today!',
@@ -9,35 +18,137 @@ const seo = {
 };
 ---
 
-<Layout {seo}>
-  <HeroSection>
+<AnnouncementBar
+  text="Check Out Our Upcoming Classes!"
+  href="/classes/upcoming"
+  slot="announcement-bar"
+/>
+<Layout seo={seo}>
+  <TextAndImageHero reversed>
     <div slot="text-container">
       <h1>Duluth MakerSpace</h1>
+      <p>Duluth MakerSpace is a 501c3 nonprofit providing an 11,000 sq foot community multi-discipline industrial, arts, and technology space where members get access to tools and equipment for a small monthly fee. We have acted as an incubator for small business, a workplace for artists, a creative outlet, and a location where ideas can become reality.</p>
+    </div>
+    <div slot="btns-container">
+      <Button href="/equipment" customIcon
+        >See the equipment<Fragment slot="icon">
+          <Icon name="ic:baseline-chevron-right" />
+        </Fragment>
+      </Button>
+    </div>
+    <picture slot="image-container">
+      <img
+        src="/assets/images/landing-1/landing-hero-1.jpg"
+        alt="Astro Odyssee"
+        id="home-hero-image"
+      />
+    </picture>
+  </TextAndImageHero>
+
+  <CustomerQuoteSection
+    quoteText="Our mission is to promote life skills, sustainability, creativity and inspiration by providing access to tools, technical equipment, work space and education to the community at an affordable price."
+    customerName="Duluth MakerSpace Board of Directors"
+  />
+
+  <ThreeColumnTextSection>
+    <div slot="column-1-body">
+      <h2>Who?</h2>
       <p>
-        Duluth MakerSpace is a 501c3 nonprofit providing an 11,000 sq foot community multi-discipline industrial, arts, and technology space where members get access to tools and equipment for a small monthly fee. We have acted as an incubator for small business, a workplace for artists, a creative outlet, and a location where ideas can become reality.
+        Our goal is to offer the best sustainable multi-field cooperative workshop possible for our local artists, inventors, experimenters, teachers, learners, and makers. We welcome all experience levels and backgrounds, and it's never too late!
       </p>
-      <h4>Our Mission</h4>
+    </div>
+    <Button slot="column-1-cta">Become a Member</Button>
+    <div slot="column-2-body">
+      <h2>How?</h2>
       <p>
-        Promote life skills, sustainability, creativity and inspiration by providing access to tools, technical equipment, work space and education to the community at an affordable price.
+        Anyone can attend classes hosted at the Duluth MakerSpace. Interested in hosting a class through Duluth MakerSpace? Teachers get 50% revenue after materials cost, contact <a href="mailto:Classes@DuluthMakerSpace.com">Classes@DuluthMakerSpace.com</a> for more information.
+      </p>
+    </div>
+    <Button slot="column-2-cta" outlined>View Classes</Button>
+    <div slot="column-3-body">
+      <h2>Where?</h2>
+      <p>The MakerSpace is located at:
+        <h4>3001 West Superior Street<br>
+        Duluth, MN 55806-1749</h4>
+      </p>
+      <p>Stop in during our staffed hours for a tour!</p>
+    </div>
+    <Button slot="column-3-cta">Learn More</Button>
+  </ThreeColumnTextSection>
+
+  <!-- <YouTubeEmbedSection
+    url="https://www.youtube.com/watch?v=cbYr75_R15M"
+    rounded
+  /> -->
+
+  <StickyTextImageSection>
+    <div slot="text-container">
+      <h2>Workspaces</h2>
+      <p>The Duluth MakerSpace proudly hosts several large, well-equipped workshops and dedicated spaces. See catch your eye? <a href="#">Check for classes</a> or <a href="#">become a member</a> today!</p>
+      <h3>CNC Room</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
+      </p>
+      <h3>Craft Classroom</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
+      </p>
+      <h3>Lapidary Studio</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
+      </p>
+      <h3>Metal Shop</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
+      </p>
+      <h3>Pottery Studio</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
+      </p>
+      <h3>Woodshop</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorem
+        tempore odio! Nemo consectetur ipsa aperiam similique maxime maiores
+        consequatur explicabo ut quibusdam fugiat corporis, dignissimos tenetur,
+        mollitia cumque. Velit.
       </p>
     </div>
     <picture slot="image-container">
       <img
-        src="/assets/images/home/makerspace-logo-and-crafts.jpg"
-        alt="A decorative display featuring the Duluth MakerSpace logo and other crafts created at the MakerSpace"
-        id="home-hero-image"
+        src="/assets/images/landing-1/landing-sticky.jpg"
+        alt="Astro Odyssey"
+        loading="lazy"
       />
     </picture>
-  </HeroSection>
-  <TextSection narrow>
+  </StickyTextImageSection>
+
+  <CtaCardSection
+    background="var(--theme-surface-2)"
+    color="var(--theme-on-surface-2)"
+  >
+    <h2>Join the Duluth MakerSpace!</h2>
     <p>
-      <b>NOTE: We are currently only open to RFID members due to CDC social distancing guidelines.</b>
+      Take <i>that</i> project (you know the one) from the drawing board to something more today!
     </p>
-    <p>
-      Interested in a walkthrough? Please email <a href="mailto:info@DuluthMakerSpace.com">info@DuluthMakerSpace.com</a> to schedule a tour.
-    </p>
-    <p>
-      Interested in a membership? Please sign up for a <a href="#">DMS orientation class</a>, which are hosted every two weeks.
-    </p>
-  </TextSection>
+    <Button href="/theme/get-started" customIcon
+      >Get Started <Fragment slot="icon">
+        <Icon name="ic:baseline-chevron-right" />
+      </Fragment>
+    </Button>
+  </CtaCardSection>
 </Layout>
