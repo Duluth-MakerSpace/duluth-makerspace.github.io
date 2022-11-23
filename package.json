@@ -22,7 +22,7 @@
     "@littlesticks/odyssey-theme-components": "^0.0.23",
     "@webcomponents/template-shadowroot": "^0.1.0",
     "astro-icon": "^0.8.0",
-    "astro-netlify-cms": "^0.3.3",
+    "astro-netlify-cms": "^0.3.4",
     "date-fns": "^2.29.3",
     "lit": "^2.4.1",
     "prettier-plugin-astro": "^0.7.0"
