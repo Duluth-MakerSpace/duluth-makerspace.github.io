@@ -24,7 +24,7 @@
     "astro-icon": "^0.8.0",
     "astro-netlify-cms": "^0.3.4",
     "date-fns": "^2.29.3",
-    "lit": "^2.6.1",
+    "lit": "^2.8.0",
     "prettier-plugin-astro": "^0.7.0"
   }
 }
